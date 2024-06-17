@@ -2,7 +2,7 @@ import Storage from 'react-native-storage';
 
 import { AsyncStorage, Platform, Alert } from 'react-native';
 
-import Speech from 'react-native-tts';
+import * as Speech from 'expo-speech';
 import * as Localization from 'expo-localization';
 import * as Haptics from 'expo-haptics';
 import * as Permissions from 'expo-permissions';
@@ -62,7 +62,7 @@ class Api {
 		this.development = _DEVELOPMENT;
 		this.styles = styles;
 
-		this.setSpeechEngine();
+		//this.setSpeechEngine();
 
 		if(_DEVELOPMENT){
 			this.analytics = new Analytics("DEVELOPMENT", {slug: "leeloo", name: "Leeloo", version: APP_VERSION});
@@ -106,46 +106,49 @@ class Api {
 	}
 
 	requestSpeechInstall(){
-		if(Platform.OS == "android"){
-			Speech.getInitStatus().then(() => {
-				Speech.requestInstallData();
-			}, (err) => {
-			  if (err.code === 'no_engine') {
-					Speech.requestInstallEngine();
-			  }
-			});
-		}
+		// if(Platform.OS == "android"){
+		// 	Speech.getInitStatus().then(() => {
+		// 		Speech.requestInstallData();
+		// 	}, (err) => {
+		// 	  if (err.code === 'no_engine') {
+		// 			Speech.requestInstallEngine();
+		// 	  }
+		// 	});
+		// }
 	}
 
-	setSpeechEngine(){
-		if(Platform.OS == "android"){
-			Speech.engines().then(engines => {
-				engines.forEach(engine => {
-					if(engine.label){
-						if(engine.label.includes("Google") || engine.label.includes("google") || engine.label.includes("google")){
-							if(!engine.default){
-								Speech.setDefaultEngine(engine.name);
-							}
-						}
-					}
-				});
-			});
-		}
-	}
+	// setSpeechEngine(){
+	// 	if(Platform.OS == "android"){
+			
+	// 		Speech.engines().then(engines => {
+	// 			engines.forEach(engine => {
+	// 				if(engine.label){
+	// 					if(engine.label.includes("Google") || engine.label.includes("google") || engine.label.includes("google")){
+	// 						if(!engine.default){
+	// 							Speech.setDefaultEngine(engine.name);
+	// 						}
+	// 					}
+	// 				}
+	// 			});
+	// 		});
+	// 	}
+	// }
 
 	initSpeech(){
 		console.log("Speech Initialized");
 
-		Speech.setDefaultVoice(this.user.voice).then(res => {
-			console.log(res);
-		}, (err) => {
-		  console.log("Error: ", err);
-		});
-		Speech.setIgnoreSilentSwitch("ignore");
-		Speech.setDucking(true);
-		Speech.addEventListener('tts-start', () => {});
-		Speech.addEventListener('tts-finish', () => {});
-		Speech.addEventListener('tts-cancel', () => {});
+		// `expo-speech` doesn't support setting default voice directly
+		// Speech.setDefaultVoice(this.user.voice).then(res => {
+		//     console.log(res);
+		// }, (err) => {
+		//   console.log("Error: ", err);
+		// });
+
+		// Instead, you can set the voice in the `speak` function
+
+		// Speech.setDucking(true);
+
+		// Note: `expo-speech` does not have event listeners for tts-start, tts-finish, tts-cancel
 	}
 
 	hit(screen){
@@ -587,45 +590,37 @@ class Api {
 
 
 	speak(text, speed, voice){
+		let rate = 1.0;
+		if(speed === "slow"){
+			rate = 0.5;
+		}
+		// If you need to set a specific voice, do it here
+		const options = {
+			language: this.user.language,
+			pitch: 1.0,
+			rate: rate
+		};
 		if(voice){
-			Speech.setDefaultVoice(voice);
+			options.voice = voice;
 		}
-		//text = this.phrase()
-		let rate = 0.5;
-		if(speed == "slow"){
-			rate = 0.25;
-		}
-		if(this.user.voice != "unsupported"){
-			Speech.speak(text, {
-				language: this.user.language,
-				pitch: 1,
-				rate: rate,
-				androidParams: {
-					KEY_PARAM_STREAM: 'STREAM_MUSIC'
-				}
-			});
-		}
+		Speech.speak(text, options);
 	}
 
 	async getAvailableVoicesAsync(recall){
-		let voices = await Speech.voices();
-		voices = voices.filter(voice => !voice.id.includes("synthesis") && !voice.id.includes("eloquence"));
-		if(voices.length == 0){
-			if(recall){
+		const voices = await Speech.getAvailableVoicesAsync();
+		if (voices.length === 0) {
+			if (recall) {
 				return [];
-			}else{
-				await new Promise(function(resolve) {
-		        setTimeout(resolve, 8000);
-		    });
+			} else {
+				await new Promise(resolve => setTimeout(resolve, 8000));
 				return await this.getAvailableVoicesAsync(true);
 			}
-		}else{
-			voices.map(voice => {
-				voice.name = voice.id;
-				voice.identifier = voice.id;
-				voice.quality == 500 ? voice.quality = "Enhanced" : voice.quality = "Optimal";
-			});
-			return voices;
+		} else {
+			return voices.map(voice => ({
+				...voice,
+				name: voice.identifier,
+				quality: voice.quality === 500 ? "Enhanced" : "Optimal"
+			}));
 		}
 	}
 
