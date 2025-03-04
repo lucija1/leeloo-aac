@@ -57,6 +57,8 @@
       "**/*"
     ],
     "privacy": "public",
-    "entryPoint": "node_modules/expo/AppEntry.js"
+    "plugins": [
+      "expo-localization"
+    ]
   }
 }
