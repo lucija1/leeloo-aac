@@ -21,6 +21,7 @@
     "test:apk": "adb install /Users/buraktokak/Developer/leeloo-aac/android/app/build/outputs/apk/release/app-release.apk"
   },
   "dependencies": {
+    "@expo/configure-splash-screen": "^0.6.0",
     "@google-cloud/translate": "^5.3.0",
     "@react-native-community/cli": "^4.9.0",
     "@react-native-community/netinfo": "5.9.7",
