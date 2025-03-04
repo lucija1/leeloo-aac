@@ -1,0 +1,254 @@
+[
+    {
+        "slug": "circle",
+        "title": "Krug",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Ovo je u obliku kruga."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li me naučiti kako crtati krug?"
+            }
+        ]
+    },
+    {
+        "slug": "triangle",
+        "title": "Trokut",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Ovo je u obliku trokuta."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li me naučiti kako crtati trokut?"
+            }
+        ]
+    },
+    {
+        "slug": "square",
+        "title": "Kvadrat",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Ovo je kvadratni oblik."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li me naučiti kako nacrtati kvadrat?"
+            }
+        ]
+    },
+    {
+        "slug": "rectangle",
+        "title": "Pravokutnik",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Ovo je u obliku pravokutnika."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li me naučiti kako nacrtati pravokutnik?"
+            }
+        ]
+    },
+    {
+        "slug": "star",
+        "title": "Zvijezda",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Ovo je u obliku zvijezde."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li me naučiti kako crtati zvijezdu?"
+            }
+        ]
+    },
+    {
+        "slug": "pentagon",
+        "title": "Peterokut",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Ovo je u obliku pentagona."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li me naučiti kako crtati pentagon?"
+            }
+        ]
+    },
+    {
+        "slug": "hexagon",
+        "title": "Šesterokut",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Ovo je šesterokutni oblik."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li me naučiti kako crtati šesterokut?"
+            }
+        ]
+    },
+    {
+        "slug": "cross",
+        "title": "Križ",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Ovo je križni oblik."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li me naučiti kako crtati križ?"
+            }
+        ]
+    },
+    {
+        "slug": "ellipse",
+        "title": "Elipsa",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Ovo je u obliku elipse."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li me naučiti kako crtati elipsu?"
+            }
+        ]
+    },
+    {
+        "slug": "arrow",
+        "title": "Strijela",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Ovo je u obliku strelice."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li me naučiti kako crtati strelicu?"
+            }
+        ]
+    },
+    {
+        "slug": "crescent",
+        "title": "Polumjesec",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Ovo je oblik polumjeseca."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li me naučiti kako crtati polumjesec?"
+            }
+        ]
+    },
+    {
+        "slug": "heart",
+        "title": "Srce",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Ovo je u obliku srca."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li me naučiti kako crtati srce?"
+            }
+        ]
+    },
+    {
+        "slug": "rhombus",
+        "title": "Romb",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Ovo je u obliku romba."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li me naučiti kako crtati rombus?"
+            }
+        ]
+    },
+    {
+        "slug": "ring",
+        "title": "Prsten",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Ovo je oblik prstena."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li me naučiti kako crtati prsten?"
+            }
+        ]
+    },
+    {
+        "slug": "semicircle",
+        "title": "Polukrug",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Ovo je u obliku polukruga."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li me naučiti kako crtati polukrug?"
+            }
+        ]
+    },
+    {
+        "slug": "trapezoid",
+        "title": "Trapez",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "To je trapezoidni oblik."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li me naučiti kako crtati trapez?"
+            }
+        ]
+    },
+    {
+        "slug": "cube",
+        "title": "Kocka",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Ovo je u obliku kocke."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li me naučiti kako crtati kocku?"
+            }
+        ]
+    },
+    {
+        "slug": "cylinder",
+        "title": "Cilindar",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Ovo je u obliku cilindra."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li me naučiti kako crtati cilindar?"
+            }
+        ]
+    }
+]

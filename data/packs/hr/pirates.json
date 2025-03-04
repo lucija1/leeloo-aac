@@ -1,0 +1,102 @@
+[
+    {
+        "slug": "captain",
+        "title": "Kapetan",
+        "phrases": []
+    },
+    {
+        "slug": "pirate-crew",
+        "title": "Gusarska posada",
+        "phrases": []
+    },
+    {
+        "slug": "treasure",
+        "title": "Blago",
+        "phrases": []
+    },
+    {
+        "slug": "hook",
+        "title": "Kuka",
+        "phrases": []
+    },
+    {
+        "slug": "compass",
+        "title": "Kompas",
+        "phrases": []
+    },
+    {
+        "slug": "pirate-ship",
+        "title": "Gusarski brod",
+        "phrases": []
+    },
+    {
+        "slug": "pirate-gun",
+        "title": "Piratska pištolj",
+        "phrases": []
+    },
+    {
+        "slug": "pirate-sword",
+        "title": "Piratski mač",
+        "phrases": []
+    },
+    {
+        "slug": "barrel",
+        "title": "Barel",
+        "phrases": []
+    },
+    {
+        "slug": "pirate-flag",
+        "title": "Gusarska zastava",
+        "phrases": []
+    },
+    {
+        "slug": "treasure-map",
+        "title": "Karta s blagom",
+        "phrases": []
+    },
+    {
+        "slug": "spyglass",
+        "title": "Dalekozor",
+        "phrases": []
+    },
+    {
+        "slug": "cannon",
+        "title": "Top",
+        "phrases": []
+    },
+    {
+        "slug": "helm",
+        "title": "Kormilariti",
+        "phrases": []
+    },
+    {
+        "slug": "lighthouse",
+        "title": "Svjetionik",
+        "phrases": []
+    },
+    {
+        "slug": "anchor",
+        "title": "Sidro",
+        "phrases": []
+    },
+    {
+        "slug": "bomb",
+        "title": "Bomba",
+        "phrases": []
+    },
+    {
+        "slug": "coin",
+        "title": "Novčić",
+        "phrases": []
+    },
+    {
+        "slug": "candle",
+        "title": "Svijeća",
+        "phrases": []
+    },
+    {
+        "slug": "knife",
+        "title": "Nož",
+        "phrases": []
+    }
+]

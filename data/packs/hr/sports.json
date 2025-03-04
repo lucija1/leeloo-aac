@@ -1,0 +1,234 @@
+[
+    {
+        "slug": "basketball",
+        "title": "Košarka",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igrati košarku."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li igrati košarku?"
+            }
+        ]
+    },
+    {
+        "slug": "boxing",
+        "title": "Boks",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim boks."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li se boksati?"
+            }
+        ]
+    },
+    {
+        "slug": "tennis",
+        "title": "Tenis",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igrati tenis."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li igrati tenis?"
+            }
+        ]
+    },
+    {
+        "slug": "golf",
+        "title": "Golf",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igrati golf."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li igrati golf?"
+            }
+        ]
+    },
+    {
+        "slug": "hockey",
+        "title": "Hokej",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igrati hokej."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li igrati hokej?"
+            }
+        ]
+    },
+    {
+        "slug": "swimming",
+        "title": "Plivanje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim plivanje."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li plivati?"
+            }
+        ]
+    },
+    {
+        "slug": "baseball",
+        "title": "Bejzbol",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igrati bejzbol."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li igrati bejzbol?"
+            }
+        ]
+    },
+    {
+        "slug": "american-football",
+        "title": "Američki nogomet",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igrati američki nogomet."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li igrati američki nogomet?"
+            }
+        ]
+    },
+    {
+        "slug": "cricket",
+        "title": "Kriket",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim kriket."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li igrati kriket?"
+            }
+        ]
+    },
+    {
+        "slug": "racing",
+        "title": "Trkaće",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim utrke."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li se utrkivati ​​zajedno?"
+            }
+        ]
+    },
+    {
+        "slug": "skiing",
+        "title": "Skijanje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim skijanje."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li skijati?"
+            }
+        ]
+    },
+    {
+        "slug": "volleyball",
+        "title": "Odbojka",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igrati odbojku."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li igrati odbojku?"
+            }
+        ]
+    },
+    {
+        "slug": "fencing",
+        "title": "Mačevanje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim ograde."
+            }
+        ]
+    },
+    {
+        "slug": "referee",
+        "title": "Sudac",
+        "phrases": [
+            {
+                "type": "🏁",
+                "phrase": "Mogu li biti sudac?"
+            }
+        ]
+    },
+    {
+        "slug": "coach",
+        "title": "Trener",
+        "phrases": [
+            {
+                "type": "🏁",
+                "phrase": "Mogu li biti tvoj trener?"
+            }
+        ]
+    },
+    {
+        "slug": "kendo",
+        "title": "Kendo",
+        "phrases": []
+    },
+    {
+        "slug": "table-tennis",
+        "title": "Stolni tenis",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igrati stolni tenis."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li igrati stolni tenis?"
+            }
+        ]
+    },
+    {
+        "slug": "medal",
+        "title": "Medalja",
+        "phrases": [
+            {
+                "type": "😎",
+                "phrase": "Imam medalju."
+            }
+        ]
+    },
+    {
+        "slug": "podium",
+        "title": "Postolje",
+        "phrases": []
+    }
+]

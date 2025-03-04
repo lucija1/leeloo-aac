@@ -332,6 +332,15 @@
       "native": "Tiếng Việt",
       "rightToLeft": false,
       "readproof": false
+    },
+    {
+      "code": "hr",
+      "locale": ["hr-HR"],
+      "support": ["ios", "android"],
+      "title": "Croatian",
+      "native": "Hrvatski",
+      "rightToLeft": false,
+      "readproof": false
     }
   ]
 }

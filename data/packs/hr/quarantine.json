@@ -1,0 +1,264 @@
+[
+    {
+        "slug": "protective-mask",
+        "title": "Zaštitna maska",
+        "phrases": [
+            {
+                "type": "🛡️",
+                "phrase": "Koristim zaštitnu masku."
+            },
+            {
+                "type": "😷",
+                "phrase": "Ne mogu izaći bez zaštitne maske."
+            }
+        ]
+    },
+    {
+        "slug": "stay-home",
+        "title": "Ostati kod kuće",
+        "phrases": [
+            {
+                "type": "🏠",
+                "phrase": "Morate ostati kod kuće."
+            },
+            {
+                "type": "🏡",
+                "phrase": "Ostajem kod kuće."
+            }
+        ]
+    },
+    {
+        "slug": "toilet-paper",
+        "title": "Toaletni papir",
+        "phrases": []
+    },
+    {
+        "slug": "sprayer",
+        "title": "Prskalica",
+        "phrases": []
+    },
+    {
+        "slug": "disinfectant",
+        "title": "Dezinfekcijsko",
+        "phrases": [
+            {
+                "type": "🧼",
+                "phrase": "Koristim dezinfekciju."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da koristim dezinfekcijsko sredstvo?"
+            }
+        ]
+    },
+    {
+        "slug": "coughing",
+        "title": "Kašalj",
+        "phrases": [
+            {
+                "type": "🤒",
+                "phrase": "Kašalj sam."
+            },
+            {
+                "type": "🏥",
+                "phrase": "Kašalj je simptom za virus."
+            }
+        ]
+    },
+    {
+        "slug": "medical-assistance",
+        "title": "Medicinska pomoć",
+        "phrases": [
+            {
+                "type": "⚕️",
+                "phrase": "Trebam medicinsku pomoć."
+            },
+            {
+                "type": "❓",
+                "phrase": "Trebate li medicinsku pomoć?"
+            }
+        ]
+    },
+    {
+        "slug": "hand-sanitizer",
+        "title": "Dezinfekcijsko sredstvo za ruke",
+        "phrases": [
+            {
+                "type": "🚰",
+                "phrase": "Koristim sredstva za čišćenje ruku."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da koristim sredstvo za čišćenje ruku?"
+            }
+        ]
+    },
+    {
+        "slug": "gloves",
+        "title": "Rukavice",
+        "phrases": [
+            {
+                "type": "🧤",
+                "phrase": "Koristim rukavice."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da obučem rukavice?"
+            }
+        ]
+    },
+    {
+        "slug": "social-distancing",
+        "title": "Socijalno distanciranje",
+        "phrases": [
+            {
+                "type": "🖐️",
+                "phrase": "Vježbam socijalno distanciranje."
+            },
+            {
+                "type": "📏",
+                "phrase": "Moramo se zadržati na udaljenosti između nas."
+            }
+        ]
+    },
+    {
+        "slug": "mouth-mask",
+        "title": "Maska za usta",
+        "phrases": [
+            {
+                "type": "😷",
+                "phrase": "Koristim masku za usta."
+            },
+            {
+                "type": "🏡",
+                "phrase": "Ne mogu izaći bez maske za usta."
+            }
+        ]
+    },
+    {
+        "slug": "pandemic",
+        "title": "Pandemija",
+        "phrases": [
+            {
+                "type": "🌐",
+                "phrase": "Što je pandemija?"
+            },
+            {
+                "type": "⏱️",
+                "phrase": "Kada će pandemija završiti?"
+            },
+            {
+                "type": "⌚",
+                "phrase": "Odlazi se pandemija."
+            }
+        ]
+    },
+    {
+        "slug": "working-at-home",
+        "title": "Rad kod kuće",
+        "phrases": [
+            {
+                "type": "🏠",
+                "phrase": "Radim kod kuće."
+            },
+            {
+                "type": "👪",
+                "phrase": "Moji roditelji rade kod kuće."
+            }
+        ]
+    },
+    {
+        "slug": "wet-wipes",
+        "title": "Vlažne maramice",
+        "phrases": [
+            {
+                "type": "🤧",
+                "phrase": "Trebam mokre maramice."
+            }
+        ]
+    },
+    {
+        "slug": "quarantine",
+        "title": "Karantena",
+        "phrases": [
+            {
+                "type": "🔲",
+                "phrase": "Što je karantena?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "U karanteni sam."
+            }
+        ]
+    },
+    {
+        "slug": "first-aid-kit",
+        "title": "Pribor za prvu pomoć",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Gdje je komplet za prvu pomoć?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da koristim komplet za prvu pomoć?"
+            }
+        ]
+    },
+    {
+        "slug": "fitness",
+        "title": "Kondicija",
+        "phrases": [
+            {
+                "type": "🤸",
+                "phrase": "Volim raditi fitness."
+            },
+            {
+                "type": "🤼",
+                "phrase": "Volim raditi fitness."
+            }
+        ]
+    },
+    {
+        "slug": "e-learning",
+        "title": "E-učenje",
+        "phrases": [
+            {
+                "type": "💻",
+                "phrase": "Učim od kuće."
+            },
+            {
+                "type": "📱",
+                "phrase": "Koristim aplikacije za e-učenje."
+            }
+        ]
+    },
+    {
+        "slug": "virus",
+        "title": "Virus",
+        "phrases": [
+            {
+                "type": "🦠",
+                "phrase": "Što je virus?"
+            },
+            {
+                "type": "💉",
+                "phrase": "Koji su simptomi virusa?"
+            }
+        ]
+    },
+    {
+        "slug": "cleaning",
+        "title": "Čišćenje",
+        "phrases": [
+            {
+                "type": "🧼",
+                "phrase": "Čistim svoju sobu."
+            },
+            {
+                "type": "🔲",
+                "phrase": "Važno je održavanje čistih soba."
+            }
+        ]
+    }
+]

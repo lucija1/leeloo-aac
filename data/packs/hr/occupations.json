@@ -1,0 +1,660 @@
+[
+    {
+        "slug": "teacher",
+        "title": "Učitelj, nastavnik, profesor",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što učitelj radi?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati učitelj."
+            }
+        ]
+    },
+    {
+        "slug": "police-officer",
+        "title": "Policajac",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi policajac?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati policajac."
+            }
+        ]
+    },
+    {
+        "slug": "writer",
+        "title": "Pisac",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što pisac radi?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati pisac."
+            }
+        ]
+    },
+    {
+        "slug": "doctor",
+        "title": "Liječnik",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi liječnik?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati liječnik."
+            }
+        ]
+    },
+    {
+        "slug": "detective",
+        "title": "Detektiv",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što detektiv radi?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati detektiv."
+            }
+        ]
+    },
+    {
+        "slug": "artist",
+        "title": "Umjetnik",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što umjetnik radi?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati umjetnik."
+            }
+        ]
+    },
+    {
+        "slug": "singer",
+        "title": "Pjevač",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što pjevačica radi?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati pjevač."
+            }
+        ]
+    },
+    {
+        "slug": "astronaut",
+        "title": "Astronaut",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi astronaut?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati astronaut."
+            }
+        ]
+    },
+    {
+        "slug": "sailor",
+        "title": "Mornar",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što mornar radi?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati mornar."
+            }
+        ]
+    },
+    {
+        "slug": "chef",
+        "title": "Kuhar",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što kuhar radi?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati kuhar."
+            }
+        ]
+    },
+    {
+        "slug": "farmer",
+        "title": "Seljak",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi poljoprivrednik?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati poljoprivrednik."
+            }
+        ]
+    },
+    {
+        "slug": "construction-worker",
+        "title": "Građevinski radnik",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi građevinski radnik?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati građevinski radnik."
+            }
+        ]
+    },
+    {
+        "slug": "baker",
+        "title": "Pekar",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što pekar radi?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati pekar."
+            }
+        ]
+    },
+    {
+        "slug": "lifeguard",
+        "title": "Spasilac",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi spasilac?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati spasilac."
+            }
+        ]
+    },
+    {
+        "slug": "astronomer",
+        "title": "Astronom",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi astronom?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati astronom."
+            }
+        ]
+    },
+    {
+        "slug": "journalist",
+        "title": "Novinar",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi novinar?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati novinar."
+            }
+        ]
+    },
+    {
+        "slug": "archeologist",
+        "title": "Arheolog",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi arheolog?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati arheolog."
+            }
+        ]
+    },
+    {
+        "slug": "musician",
+        "title": "Glazbenik",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi glazbenik?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati glazbenik."
+            }
+        ]
+    },
+    {
+        "slug": "magician",
+        "title": "Mađioničar",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi mađioničar?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati mađioničar."
+            }
+        ]
+    },
+    {
+        "slug": "soccer-player",
+        "title": "Nogometaš",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi nogometaš?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati nogometaš."
+            }
+        ]
+    },
+    {
+        "slug": "postwoman",
+        "title": "Poštar",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi poštara?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati poštar."
+            }
+        ]
+    },
+    {
+        "slug": "firefighter",
+        "title": "Vatrogasac",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi vatrogasac?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati vatrogasac."
+            }
+        ]
+    },
+    {
+        "slug": "scientist",
+        "title": "Znanstvenik",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što znanstvenik radi?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati znanstvenik."
+            }
+        ]
+    },
+    {
+        "slug": "gardener",
+        "title": "Vrtlar",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što vrtlar radi?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati vrtlar."
+            }
+        ]
+    },
+    {
+        "slug": "butcher",
+        "title": "mesar",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što mesar radi?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati mesar."
+            }
+        ]
+    },
+    {
+        "slug": "veterinarian",
+        "title": "Veterinar",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi veterinar?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati veterinar."
+            }
+        ]
+    },
+    {
+        "slug": "lumber-jack",
+        "title": "Drski",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi priključak od drva?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati drveni priključak."
+            }
+        ]
+    },
+    {
+        "slug": "miner",
+        "title": "Rudar",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi rudar?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati rudar."
+            }
+        ]
+    },
+    {
+        "slug": "nun",
+        "title": "Rent",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi redovnica?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati redovnica."
+            }
+        ]
+    },
+    {
+        "slug": "fisher-woman",
+        "title": "Ribarska žena",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi ribara?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati ribara."
+            }
+        ]
+    },
+    {
+        "slug": "hair-dresser",
+        "title": "Frizerski ormar",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi odijevač za kosu?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati frizerski ormar."
+            }
+        ]
+    },
+    {
+        "slug": "mechanic",
+        "title": "Mehaničar",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi mehaničar?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati mehaničar."
+            }
+        ]
+    },
+    {
+        "slug": "electrician",
+        "title": "Električar",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi električar?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati električar."
+            }
+        ]
+    },
+    {
+        "slug": "swimmer",
+        "title": "Plivač",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi plivač?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati plivač."
+            }
+        ]
+    },
+    {
+        "slug": "photographer",
+        "title": "Fotograf",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi fotograf?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati fotograf."
+            }
+        ]
+    },
+    {
+        "slug": "priest",
+        "title": "Svećenik",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što svećenik radi?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati svećenik."
+            }
+        ]
+    },
+    {
+        "slug": "soldier",
+        "title": "Vojnik",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi vojnik?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati vojnik."
+            }
+        ]
+    },
+    {
+        "slug": "carpenter",
+        "title": "Stolar",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi stolar?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati stolar."
+            }
+        ]
+    },
+    {
+        "slug": "plumber",
+        "title": "Vodoinstalater",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi vodoinstalater?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati vodoinstalater."
+            }
+        ]
+    },
+    {
+        "slug": "wall-painter",
+        "title": "Zidni slikar",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi zidni slikar?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati zidni slikar."
+            }
+        ]
+    },
+    {
+        "slug": "nurse",
+        "title": "Medicinska sestra",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi medicinska sestra?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati medicinska sestra."
+            }
+        ]
+    },
+    {
+        "slug": "judge",
+        "title": "Suditi",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što sudac radi?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati sudac."
+            }
+        ]
+    },
+    {
+        "slug": "waiter",
+        "title": "Konobar",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi konobar?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati konobar."
+            }
+        ]
+    },
+    {
+        "slug": "pilot",
+        "title": "Pilot",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što pilot radi?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati pilot."
+            }
+        ]
+    },
+    {
+        "slug": "welder",
+        "title": "Zavarivač",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi zavarivač?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati zavarivač."
+            }
+        ]
+    },
+    {
+        "slug": "executive",
+        "title": "Izvršni",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi izvršni direktor?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati izvršna vlast."
+            }
+        ]
+    },
+    {
+        "slug": "hostess",
+        "title": "Domaćica",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što radi domaćica?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim postati domaćica."
+            }
+        ]
+    }
+]

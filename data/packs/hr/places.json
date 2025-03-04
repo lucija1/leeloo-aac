@@ -1,0 +1,406 @@
+[
+    {
+        "slug": "park",
+        "title": "Park",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići u park."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti u parkiranje?"
+            },
+            {
+                "type": "💡",
+                "phrase": "Mogu igrati u parku."
+            }
+        ]
+    },
+    {
+        "slug": "mall",
+        "title": "Trgovački centar",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići u trgovački centar."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti u trgovački centar?"
+            },
+            {
+                "type": "💡",
+                "phrase": "Mogu kupovati u tržnom centru."
+            }
+        ]
+    },
+    {
+        "slug": "restaurant",
+        "title": "Restoran",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići u restoran."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti u restoran?"
+            },
+            {
+                "type": "💡",
+                "phrase": "Mogu pojesti obrok u restoranu."
+            }
+        ]
+    },
+    {
+        "slug": "cinema",
+        "title": "Kino",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići u kino."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti u kino?"
+            },
+            {
+                "type": "💡",
+                "phrase": "Mogu gledati film u kinu."
+            }
+        ]
+    },
+    {
+        "slug": "school",
+        "title": "Škola",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići u školu."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti u školu?"
+            },
+            {
+                "type": "💡",
+                "phrase": "Mogu učiti u školi."
+            }
+        ]
+    },
+    {
+        "slug": "library",
+        "title": "Knjižnica",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići u knjižnicu."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti u knjižnicu?"
+            },
+            {
+                "type": "💡",
+                "phrase": "Mogu studirati u knjižnici."
+            }
+        ]
+    },
+    {
+        "slug": "fair",
+        "title": "Pravedan",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići na sajam."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti na fer?"
+            },
+            {
+                "type": "💡",
+                "phrase": "Mogu se zabaviti na fer."
+            }
+        ]
+    },
+    {
+        "slug": "drugstore",
+        "title": "Ljekarna",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići u ljekarni."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti u ljekarni?"
+            },
+            {
+                "type": "💡",
+                "phrase": "Mogu kupiti lijek u ljekarni."
+            }
+        ]
+    },
+    {
+        "slug": "hospital",
+        "title": "Bolnica",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići u bolnicu."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti u bolnicu?"
+            },
+            {
+                "type": "💡",
+                "phrase": "Bolesni ljudi mogu ići u bolnicu."
+            }
+        ]
+    },
+    {
+        "slug": "amusement-park",
+        "title": "Zabavni park",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići u zabavni park."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti u zabavni park?"
+            },
+            {
+                "type": "💡",
+                "phrase": "Mogu se zabaviti u zabavnom parku."
+            }
+        ]
+    },
+    {
+        "slug": "dormitory",
+        "title": "Spavaonica",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići u spavaonicu."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti u spavaonicu?"
+            },
+            {
+                "type": "💡",
+                "phrase": "Mogu ostati u spavaonici."
+            }
+        ]
+    },
+    {
+        "slug": "laundry-place",
+        "title": "Rublje",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići u mjesto za pranje rublja."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti do mjesta za rublje?"
+            },
+            {
+                "type": "💡",
+                "phrase": "Mogu očistiti svoje rublje u rublja."
+            }
+        ]
+    },
+    {
+        "slug": "barber-shop",
+        "title": "brijačnica",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići u brijačnicu."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti u brijačnicu?"
+            },
+            {
+                "type": "💡",
+                "phrase": "Mogu dobiti frizuru u brijačnici."
+            }
+        ]
+    },
+    {
+        "slug": "hotel",
+        "title": "Hotel",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići u hotel."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti u hotel?"
+            },
+            {
+                "type": "💡",
+                "phrase": "Mogu odsjesti u hotelu."
+            }
+        ]
+    },
+    {
+        "slug": "kindergarten",
+        "title": "Dječji vrtić",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići u vrtić."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti u vrtić?"
+            }
+        ]
+    },
+    {
+        "slug": "parking-lot",
+        "title": "Parkiralište",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići na parkiralište."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti na parkiralište?"
+            }
+        ]
+    },
+    {
+        "slug": "elevator",
+        "title": "Lift",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim koristiti lift."
+            },
+            {
+                "type": "💗",
+                "phrase": "Volim koristiti dizalo?"
+            },
+            {
+                "type": "💡",
+                "phrase": "Mogu ići gore pomoću dizala."
+            }
+        ]
+    },
+    {
+        "slug": "bank",
+        "title": "Banka",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići u banku."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti u banku?"
+            },
+            {
+                "type": "💡",
+                "phrase": "Mogu povući novac u banci."
+            }
+        ]
+    },
+    {
+        "slug": "skycraper",
+        "title": "Nebeska mješavina",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići u neboder."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti u neboder?"
+            }
+        ]
+    },
+    {
+        "slug": "stadium",
+        "title": "Stadion",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići na stadion."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti na stadion?"
+            }
+        ]
+    },
+    {
+        "slug": "cruise-ship",
+        "title": "Kruzer",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim se ukrcati na brod za krstarenje."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti na krstarenje brodom?"
+            }
+        ]
+    },
+    {
+        "slug": "forest",
+        "title": "Šuma",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići u šumu."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti u šumu?"
+            }
+        ]
+    },
+    {
+        "slug": "tent",
+        "title": "Šator",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići u šator."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možemo li ostati u šatoru?"
+            }
+        ]
+    },
+    {
+        "slug": "beach",
+        "title": "Plaža",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim ići na plažu."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li me odvesti na plažu?"
+            },
+            {
+                "type": "💡",
+                "phrase": "Mogu sunčati na plaži."
+            }
+        ]
+    }
+]

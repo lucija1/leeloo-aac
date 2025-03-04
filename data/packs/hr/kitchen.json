@@ -1,0 +1,308 @@
+[
+    {
+        "slug": "mixer",
+        "title": "Mikser",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pokazati kako koristiti mikser?"
+            },
+            {
+                "type": "🤞",
+                "phrase": "Ne bih trebao koristiti mikser bez svojih roditelja."
+            }
+        ]
+    },
+    {
+        "slug": "apron",
+        "title": "Pregača",
+        "phrases": [
+            {
+                "type": "👚",
+                "phrase": "Nosim pregaču dok kuham."
+            },
+            {
+                "type": "👚",
+                "phrase": "Moja mama nosi pregaču dok kuha."
+            }
+        ]
+    },
+    {
+        "slug": "fryer",
+        "title": "Friteza",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pokazati kako koristiti fritez?"
+            },
+            {
+                "type": "🤞",
+                "phrase": "Ne bih trebao koristiti fritez bez roditelja."
+            }
+        ]
+    },
+    {
+        "slug": "rolling-pin",
+        "title": "Oklagija",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pokazati kako koristiti valjanu iglu?"
+            },
+            {
+                "type": "💡",
+                "phrase": "Kolačine pin koristim za razvaljavanje tijesta."
+            }
+        ]
+    },
+    {
+        "slug": "coffee-machine",
+        "title": "Aparat za kavu",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pokazati kako koristiti stroj za kavu?"
+            },
+            {
+                "type": "🤞",
+                "phrase": "Ne bih trebao koristiti stroj za kavu bez svojih roditelja."
+            }
+        ]
+    },
+    {
+        "slug": "fridge",
+        "title": "Hladnjak",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pokazati kako koristiti hladnjak?"
+            },
+            {
+                "type": "💡",
+                "phrase": "Hrana drži hladnom."
+            }
+        ]
+    },
+    {
+        "slug": "pot",
+        "title": "Lonac",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pokazati kako koristiti lonac?"
+            },
+            {
+                "type": "🤞",
+                "phrase": "Ne bih trebao koristiti lonac bez roditelja."
+            }
+        ]
+    },
+    {
+        "slug": "toaster",
+        "title": "Toster",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pokazati kako koristiti toster?"
+            },
+            {
+                "type": "🤞",
+                "phrase": "Ne bih trebao koristiti toster bez roditelja."
+            }
+        ]
+    },
+    {
+        "slug": "cutlery",
+        "title": "Pribor za jelo",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pokazati kako koristiti pribor za jelo?"
+            },
+            {
+                "type": "😋",
+                "phrase": "Učim jesti s priborom za jelo."
+            }
+        ]
+    },
+    {
+        "slug": "spatula",
+        "title": "Lopatica",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pokazati kako koristiti lopaticu?"
+            }
+        ]
+    },
+    {
+        "slug": "oven",
+        "title": "Pećnica",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pokazati kako koristiti pećnicu?"
+            },
+            {
+                "type": "🤞",
+                "phrase": "Ne bih trebao koristiti pećnicu bez roditelja."
+            }
+        ]
+    },
+    {
+        "slug": "kitchen-timer",
+        "title": "TIMER KUHING TIMER",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pokazati kako koristiti tajmer kuhinje?"
+            },
+            {
+                "type": "⏱️",
+                "phrase": "Kuhinjski tajmer je zvučni signal."
+            }
+        ]
+    },
+    {
+        "slug": "pizza-cutter",
+        "title": "Rezač pizze",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pokazati kako koristiti rezač za pizzu?"
+            },
+            {
+                "type": "🤞",
+                "phrase": "Ne bih trebao koristiti rezač pizze bez roditelja."
+            }
+        ]
+    },
+    {
+        "slug": "grater",
+        "title": "Rende",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pokazati kako koristiti grater?"
+            },
+            {
+                "type": "🤞",
+                "phrase": "Ne bih trebao koristiti grater bez svojih roditelja."
+            }
+        ]
+    },
+    {
+        "slug": "grill",
+        "title": "roštilj",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pokazati kako koristiti roštilj?"
+            },
+            {
+                "type": "🤞",
+                "phrase": "Ne bih trebao koristiti roštilj bez roditelja."
+            }
+        ]
+    },
+    {
+        "slug": "recipe-book",
+        "title": "Knjiga recepata",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Mogu li odabrati recept za kuhanje?"
+            },
+            {
+                "type": "🍳",
+                "phrase": "Možemo li kuhati ovaj recept?"
+            }
+        ]
+    },
+    {
+        "slug": "kitchen-utensils",
+        "title": "Kuhinjski pribor",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim korištenje kuhinjskog pribora."
+            },
+            {
+                "type": "🤞",
+                "phrase": "Ne bih trebao koristiti kuhinjske posuđe bez svojih roditelja."
+            }
+        ]
+    },
+    {
+        "slug": "stove",
+        "title": "Peć",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pokazati kako koristiti peć?"
+            },
+            {
+                "type": "🤞",
+                "phrase": "Ne bih trebao koristiti štednjak bez roditelja."
+            }
+        ]
+    },
+    {
+        "slug": "salt-and-pepper",
+        "title": "Sol i papar",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li donijeti sol i papar?"
+            }
+        ]
+    },
+    {
+        "slug": "kitchen-board",
+        "title": "Kuhinjska ploča",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Mogu li pisati na kuhinjskoj ploči?"
+            }
+        ]
+    },
+    {
+        "slug": "scale",
+        "title": "Ljestvica",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pokazati kako koristiti kuhinjsku ljestvicu?"
+            }
+        ]
+    },
+    {
+        "slug": "teapot",
+        "title": "Čajnik",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pokazati kako koristiti čajnik?"
+            },
+            {
+                "type": "🤞",
+                "phrase": "Ne bih trebao koristiti čajnik bez roditelja."
+            }
+        ]
+    },
+    {
+        "slug": "microwave",
+        "title": "Mikrovalna pećnica",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pokazati kako koristiti mikrovalnu pećnicu?"
+            },
+            {
+                "type": "🤞",
+                "phrase": "Ne bih trebao koristiti mikrovalnu pećnicu bez roditelja."
+            }
+        ]
+    }
+]

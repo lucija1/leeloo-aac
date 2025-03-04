@@ -1,0 +1,410 @@
+[
+    {
+        "slug": "doll",
+        "title": "Lutka",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim lutke."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Mogu li se igrati sa svojim lutkama?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim lutku kao prisutnu."
+            }
+        ]
+    },
+    {
+        "slug": "teddy-bear",
+        "title": "plišani medvjedić",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim medvjediće."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Mogu li se igrati sa svojim nosačem?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim medvjedića kao prisutni."
+            }
+        ]
+    },
+    {
+        "slug": "blocks",
+        "title": "Blokovi",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim blokove."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Mogu li se igrati sa svojim blokovima?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim blokove kao prisutni."
+            }
+        ]
+    },
+    {
+        "slug": "spinner",
+        "title": "Špirt",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim spinner."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Mogu li se igrati sa svojim spinnerom?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim spinner kao prisutan."
+            }
+        ]
+    },
+    {
+        "slug": "nutcracker",
+        "title": "Matilac",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim Nutcrackers."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Mogu li se igrati sa svojim orasima?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim orah kao prisutan."
+            }
+        ]
+    },
+    {
+        "slug": "video-games",
+        "title": "Video igre",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim video igre."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možemo li zajedno igrati video igre?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim video igre kao prisutne."
+            }
+        ]
+    },
+    {
+        "slug": "cards",
+        "title": "Kartice",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igrati karte."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Mogu li se igrati sa svojim kartama?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim igrati karte kao prisutne."
+            }
+        ]
+    },
+    {
+        "slug": "toy-car",
+        "title": "Autić",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim automobile igračaka."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Mogu li se igrati sa svojim automobilom za igračke?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim automobil s igračkama kao prisutan."
+            }
+        ]
+    },
+    {
+        "slug": "sword",
+        "title": "Mač",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim mačeve igračaka."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Mogu li se igrati sa svojim mačem igračaka?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim mač kao prisutan."
+            }
+        ]
+    },
+    {
+        "slug": "yo-yo",
+        "title": "Yo-yo",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igrati s yo-yo."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Mogu li se igrati sa svojim yo-yo?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim yo-yo kao prisutan."
+            }
+        ]
+    },
+    {
+        "slug": "slingshot",
+        "title": "Mala praćka",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim Slingshots."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Mogu li se igrati sa svojim Slingshot?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim da se sliječi kao prisutan."
+            }
+        ]
+    },
+    {
+        "slug": "water-gun",
+        "title": "Vodeni pištolj",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim vodeni pištolj."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Mogu li se igrati sa svojim vodenim pištoljem?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim vodeni pištolj kao prisutan."
+            }
+        ]
+    },
+    {
+        "slug": "doll-house",
+        "title": "Lutka",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igrati s Dollhouseom."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Mogu li se igrati sa svojom kućicom za lutke?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim kuću za lutke kao prisutnu."
+            }
+        ]
+    },
+    {
+        "slug": "viewer",
+        "title": "Gledatelj",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igrati s gledateljem."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim gledatelja kao prisutnog."
+            }
+        ]
+    },
+    {
+        "slug": "board-game",
+        "title": "Igra na ploči",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igre na ploči."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možemo li igrati igre na ploči?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim igru ​​na ploči kao prisutnu."
+            }
+        ]
+    },
+    {
+        "slug": "rubiks-cube",
+        "title": "Rubikova kocka",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim rješavati Rubikovu kocku."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Mogu li pokušati riješiti svoju Rubikovu kocku?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim Rubikovu kocku kao prisutnu."
+            }
+        ]
+    },
+    {
+        "slug": "puzzle",
+        "title": "Puzzle",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim zagonetke."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Mogu li riješiti zagonetke?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim zagonetke kao prisutne."
+            }
+        ]
+    },
+    {
+        "slug": "remote-control-car",
+        "title": "Automobil daljinskog upravljača",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Sviđa mi se moj automobil na daljinsko upravljanje."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Mogu li se igrati sa svojim daljinskim upravljanjem"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim daljinski upravljački automobil kao prisutan."
+            }
+        ]
+    },
+    {
+        "slug": "rocking-horse",
+        "title": "Konjić za ljuljanje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Sviđa mi se moj konji za ljuljanje."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Mogu li se igrati s konjem za ljuljanje?"
+            }
+        ]
+    },
+    {
+        "slug": "scooter",
+        "title": "Skuter",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Sviđa mi se moj skuter."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim skuter kao prisutan."
+            }
+        ]
+    },
+    {
+        "slug": "pyramid",
+        "title": "Piramida",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim piramide."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piramidu kao prisutnu."
+            }
+        ]
+    },
+    {
+        "slug": "cart",
+        "title": "Kolica",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Sviđa mi se moja kolica za igračke."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći urediti svoje igračke?"
+            }
+        ]
+    },
+    {
+        "slug": "aeroplane",
+        "title": "Zrakoplov",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim avioni."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Mogu li se igrati sa svojim avionom?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim zrakoplov kao prisutan."
+            }
+        ]
+    },
+    {
+        "slug": "sand-bucket",
+        "title": "Kanta za pijesak",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim kante s pijeskom."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Mogu li sagraditi dvorac sa svojom kantom od pijeska?"
+            }
+        ]
+    }
+]

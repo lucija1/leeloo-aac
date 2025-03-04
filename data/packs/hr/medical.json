@@ -1,0 +1,241 @@
+[
+    {
+        "slug": "hospital-bed",
+        "title": "Bolnički krevet",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći u bolničkom krevetu?"
+            }
+        ]
+    },
+    {
+        "slug": "weight-loss",
+        "title": "Gubitak težine",
+        "phrases": [
+            {
+                "type": "🏋️",
+                "phrase": "Moram umjeriti unos hrane."
+            },
+            {
+                "type": "🏃‍♀️",
+                "phrase": "Gubim kilograme."
+            },
+            {
+                "type": "🥩",
+                "phrase": "Dobivam na težini."
+            }
+        ]
+    },
+    {
+        "slug": "exercise",
+        "title": "Vježbanje",
+        "phrases": [
+            {
+                "type": "🏋️",
+                "phrase": "Radim vježbu."
+            },
+            {
+                "type": "⏲️",
+                "phrase": "Imam rutinu vježbanja."
+            }
+        ]
+    },
+    {
+        "slug": "medical-history",
+        "title": "Povijest bolesti",
+        "phrases": [
+            {
+                "type": "📂",
+                "phrase": "Evo moje povijesti medicine."
+            }
+        ]
+    },
+    {
+        "slug": "vitamin-c",
+        "title": "Vitamin C",
+        "phrases": [
+            {
+                "type": "🍹",
+                "phrase": "Moram uzeti vitamin c."
+            },
+            {
+                "type": "🍊",
+                "phrase": "Naranče sadrže vitamin c."
+            }
+        ]
+    },
+    {
+        "slug": "thermometer",
+        "title": "Termometar",
+        "phrases": [
+            {
+                "type": "🤒",
+                "phrase": "Možete li izmjeriti moju groznicu?"
+            },
+            {
+                "type": "🌡️",
+                "phrase": "Kako radi termometar?"
+            }
+        ]
+    },
+    {
+        "slug": "pills",
+        "title": "Tablete",
+        "phrases": [
+            {
+                "type": "💊",
+                "phrase": "Moram uzeti tablete."
+            },
+            {
+                "type": "👉",
+                "phrase": "Jeste li uzeli svoje tablete?"
+            }
+        ]
+    },
+    {
+        "slug": "medical-mask",
+        "title": "Medicinska maska",
+        "phrases": []
+    },
+    {
+        "slug": "dental-care",
+        "title": "Oralna higijena",
+        "phrases": [
+            {
+                "type": "🦷",
+                "phrase": "Zubi me boli."
+            },
+            {
+                "type": "🦷",
+                "phrase": "Orežem zube."
+            }
+        ]
+    },
+    {
+        "slug": "hearing-exam",
+        "title": "Ispit za saslušanje",
+        "phrases": [
+            {
+                "type": "👂",
+                "phrase": "Imam problema s sluhom."
+            },
+            {
+                "type": "🦻",
+                "phrase": "Imat ću saslušani ispit."
+            }
+        ]
+    },
+    {
+        "slug": "hospital",
+        "title": "Bolnica",
+        "phrases": [
+            {
+                "type": "🏥",
+                "phrase": "Idem u bolnicu."
+            },
+            {
+                "type": "🏥",
+                "phrase": "U bolnici sam."
+            }
+        ]
+    },
+    {
+        "slug": "stethoscope",
+        "title": "Stetoskop",
+        "phrases": [
+            {
+                "type": "👨‍⚕️",
+                "phrase": "Liječnici koriste stetoskop."
+            },
+            {
+                "type": "🩺",
+                "phrase": "Mogu li dobiti igrački stetoskop?"
+            }
+        ]
+    },
+    {
+        "slug": "ambulance",
+        "title": "Hitna pomoć",
+        "phrases": [
+            {
+                "type": "👀",
+                "phrase": "Vidio sam hitnu pomoć."
+            },
+            {
+                "type": "👂",
+                "phrase": "Čuo sam glas hitne pomoći."
+            }
+        ]
+    },
+    {
+        "slug": "drugstore",
+        "title": "Ljekarna",
+        "phrases": [
+            {
+                "type": "🧾",
+                "phrase": "Moram ispuniti svoj recept."
+            },
+            {
+                "type": "➡️",
+                "phrase": "Evo mog recepta."
+            }
+        ]
+    },
+    {
+        "slug": "emergency",
+        "title": "Hitan slučaj",
+        "phrases": [
+            {
+                "type": "🚨",
+                "phrase": "Imam zdravstvenu situaciju."
+            },
+            {
+                "type": "🚑",
+                "phrase": "Idem u hitnu pomoć."
+            }
+        ]
+    },
+    {
+        "slug": "health-insurance",
+        "title": "Zdravstveno osiguranje",
+        "phrases": [
+            {
+                "type": "⚕️",
+                "phrase": "Imam zdravstveno osiguranje."
+            },
+            {
+                "type": "❌",
+                "phrase": "Nemam zdravstveno osiguranje."
+            }
+        ]
+    },
+    {
+        "slug": "doctor",
+        "title": "Liječnik",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Sviđa mi se moj liječnik."
+            },
+            {
+                "type": "🤩",
+                "phrase": "Doktor mi pomaže."
+            }
+        ]
+    },
+    {
+        "slug": "nurse",
+        "title": "Medicinska sestra",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Sviđa mi se moja medicinska sestra."
+            },
+            {
+                "type": "🤩",
+                "phrase": "Sestra mi pomaže."
+            }
+        ]
+    }
+]

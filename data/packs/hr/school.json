@@ -1,0 +1,498 @@
+[
+    {
+        "slug": "desk",
+        "title": "Stol",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Mogu li koristiti ovaj stol?"
+            },
+            {
+                "type": "❓",
+                "phrase": "Koji je stol moj?"
+            },
+            {
+                "type": "🥛",
+                "phrase": "Prolio sam se po stolu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne ogrebajte stol."
+            }
+        ]
+    },
+    {
+        "slug": "chair",
+        "title": "Stolica",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Mogu li sjediti s tobom?"
+            },
+            {
+                "type": "❓",
+                "phrase": "Koja je stolica moja?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Je li ta stolica snimljena?"
+            },
+            {
+                "type": "🥛",
+                "phrase": "Prolio sam se na stolici."
+            }
+        ]
+    },
+    {
+        "slug": "book",
+        "title": "Knjiga",
+        "phrases": [
+            {
+                "type": "📙",
+                "phrase": "Udžbenik"
+            },
+            {
+                "type": "📒",
+                "phrase": "Radna bilježnica"
+            },
+            {
+                "type": "📚",
+                "phrase": "Čitanje knjiga."
+            },
+            {
+                "type": "😇",
+                "phrase": "Mogu li posuditi vašu knjigu?"
+            },
+            {
+                "type": "📃",
+                "phrase": "Na kojoj smo stranicama?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Okrenite stranicu."
+            },
+            {
+                "type": "😱",
+                "phrase": "Izgubio sam knjigu."
+            }
+        ]
+    },
+    {
+        "slug": "notebook",
+        "title": "Bilježnica",
+        "phrases": [
+            {
+                "type": "📝",
+                "phrase": "Voditi bilješke."
+            },
+            {
+                "type": "🖐️",
+                "phrase": "Vodim bilješke."
+            },
+            {
+                "type": "😱",
+                "phrase": "Izgubio sam bilježnicu."
+            }
+        ]
+    },
+    {
+        "slug": "backpack",
+        "title": "Ruksak",
+        "phrases": [
+            {
+                "type": "👜",
+                "phrase": "Noseći moj ruksak."
+            },
+            {
+                "type": "💡",
+                "phrase": "Stavljajući moje knjige u ruksak."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Trebam novi ruksak."
+            },
+            {
+                "type": "🙏🏼",
+                "phrase": "Hvala vam što ste nosili moj ruksak."
+            },
+            {
+                "type": "😱",
+                "phrase": "Izgubio sam ruksak."
+            },
+            {
+                "type": "⚖️",
+                "phrase": "Ruksak mi je težak."
+            }
+        ]
+    },
+    {
+        "slug": "blackboard",
+        "title": "Ploča",
+        "phrases": [
+            {
+                "type": "👀",
+                "phrase": "Pogledajte ploču."
+            },
+            {
+                "type": "🧽",
+                "phrase": "Čišćenje ploče."
+            },
+            {
+                "type": "🧮",
+                "phrase": "Rješavanje problema na ploči."
+            },
+            {
+                "type": "📝",
+                "phrase": "Uzimanje u obzir na ploči."
+            },
+            {
+                "type": "🖊️",
+                "phrase": "Daj mi kredu."
+            }
+        ]
+    },
+    {
+        "slug": "teacher",
+        "title": "Učitelj, nastavnik, profesor",
+        "phrases": [
+            {
+                "type": "🤔",
+                "phrase": "Ne razumijem ovaj dio."
+            },
+            {
+                "type": "🔁",
+                "phrase": "Možete li ponoviti posljednji dio?"
+            },
+            {
+                "type": "🚻",
+                "phrase": "Mogu li ići u zahod?"
+            },
+            {
+                "type": "❓",
+                "phrase": "Koja tema?"
+            },
+            {
+                "type": "😀",
+                "phrase": "Sviđa mi se ova tema."
+            },
+            {
+                "type": "😔",
+                "phrase": "Ne sviđa mi se ova tema."
+            },
+            {
+                "type": "🙏🏼",
+                "phrase": "Hvala na lekciji."
+            }
+        ]
+    },
+    {
+        "slug": "school-bus",
+        "title": "Školski autobus",
+        "phrases": [
+            {
+                "type": "⌛",
+                "phrase": "Dolazi školski autobus."
+            },
+            {
+                "type": "❓",
+                "phrase": "Mogu li sjediti pored tebe?"
+            },
+            {
+                "type": "🙏🏼",
+                "phrase": "Hvala vozaču autobusa!"
+            },
+            {
+                "type": "⏱️",
+                "phrase": "Školski autobus kasnio je."
+            }
+        ]
+    },
+    {
+        "slug": "pencil",
+        "title": "Olovka",
+        "phrases": [
+            {
+                "type": "✏️",
+                "phrase": "Pišem."
+            },
+            {
+                "type": "🎓",
+                "phrase": "Učim pisati."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Trebam novu olovku."
+            },
+            {
+                "type": "😇",
+                "phrase": "Mogu li posuditi vašu olovku?"
+            },
+            {
+                "type": "😱",
+                "phrase": "Izgubio sam olovku."
+            }
+        ]
+    },
+    {
+        "slug": "eraser",
+        "title": "Brisač",
+        "phrases": [
+            {
+                "type": "🧽",
+                "phrase": "Izbrišem."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Trebam novi gumitelj."
+            },
+            {
+                "type": "😇",
+                "phrase": "Mogu li posuditi vašu gumicu?"
+            },
+            {
+                "type": "😱",
+                "phrase": "Izgubio sam gumicu."
+            }
+        ]
+    },
+    {
+        "slug": "ruler",
+        "title": "Vladar",
+        "phrases": [
+            {
+                "type": "📏",
+                "phrase": "Mjerim."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Trebam novi vladar."
+            },
+            {
+                "type": "😇",
+                "phrase": "Mogu li posuditi vašeg ravnala?"
+            },
+            {
+                "type": "😱",
+                "phrase": "Izgubio sam vladar."
+            }
+        ]
+    },
+    {
+        "slug": "sharpener",
+        "title": "Šiljilo",
+        "phrases": [
+            {
+                "type": "🔪",
+                "phrase": "Oštrim olovku."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Trebam novi oštrivač."
+            },
+            {
+                "type": "😇",
+                "phrase": "Mogu li posuditi vaš oštrica?"
+            },
+            {
+                "type": "😱",
+                "phrase": "Izgubio sam oštricu."
+            }
+        ]
+    },
+    {
+        "slug": "mathematics",
+        "title": "Matematika",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim matematiku."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim studirati matematiku."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim matematiku."
+            },
+            {
+                "type": "⌚",
+                "phrase": "Kada je klasa matematike?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li mi pomoći oko moje matematičke domaće zadaće?"
+            }
+        ]
+    },
+    {
+        "slug": "literature",
+        "title": "Književnost",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim literaturu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim proučavati literaturu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim literaturu."
+            },
+            {
+                "type": "⌚",
+                "phrase": "Kada je klasa literature?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li mi pomoći s mojom literaturom domaće zadaće?"
+            }
+        ]
+    },
+    {
+        "slug": "science",
+        "title": "Znanost",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim znanost."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim studirati znanost."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim znanost."
+            },
+            {
+                "type": "⌚",
+                "phrase": "Kada je nastava znanosti?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li mi pomoći s mojom znanstvenom domaćom zadaćom?"
+            }
+        ]
+    },
+    {
+        "slug": "art-class",
+        "title": "Umjetnički razred",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim klasu umjetnosti."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim vježbati umjetničke vještine."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim umjetničku klasu."
+            },
+            {
+                "type": "⌚",
+                "phrase": "Kada je umjetnička klasa?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li mi pomoći oko domaće zadaće u razredu umjetnosti?"
+            }
+        ]
+    },
+    {
+        "slug": "music-class",
+        "title": "Razred glazbe",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim tečaj glazbe."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim vježbati glazbene vještine."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim glazbu."
+            },
+            {
+                "type": "⌚",
+                "phrase": "Kada je glazbena nastava?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li mi pomoći oko domaće zadaće glazbe?"
+            }
+        ]
+    },
+    {
+        "slug": "geography",
+        "title": "Geografija",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim geografiju."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim proučavati geografiju."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim geografiju."
+            },
+            {
+                "type": "⌚",
+                "phrase": "Kada je geografija?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li mi pomoći oko moje domaće zadaće?"
+            }
+        ]
+    },
+    {
+        "slug": "telescope",
+        "title": "Teleskop",
+        "phrases": [
+            {
+                "type": "🌎",
+                "phrase": "Koristim teleskop."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim koristiti teleskop."
+            },
+            {
+                "type": "🌟",
+                "phrase": "Želim pogledati zvijezde."
+            }
+        ]
+    },
+    {
+        "slug": "glue",
+        "title": "Ljepilo",
+        "phrases": [
+            {
+                "type": "👌",
+                "phrase": "Koristim ljepilo."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Trebam novo ljepilo."
+            },
+            {
+                "type": "😇",
+                "phrase": "Mogu li posuditi vaše ljepilo?"
+            },
+            {
+                "type": "😱",
+                "phrase": "Izgubio sam ljepilo."
+            }
+        ]
+    }
+]

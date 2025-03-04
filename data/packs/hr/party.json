@@ -1,0 +1,448 @@
+[
+    {
+        "slug": "confetti",
+        "title": "Konfete",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim konfete."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Mogu li iskočiti konfete?"
+            }
+        ]
+    },
+    {
+        "slug": "party-blower",
+        "title": "Puhač zabave",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim puhanje zabave."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Je li moja zabavna puhala bučna?"
+            }
+        ]
+    },
+    {
+        "slug": "gift",
+        "title": "Dar",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim darove."
+            },
+            {
+                "type": "🎁",
+                "phrase": "Što ste me dobili kao poklon?"
+            }
+        ]
+    },
+    {
+        "slug": "candle",
+        "title": "Svijeća",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim zabavne svijeće."
+            },
+            {
+                "type": "🕯️",
+                "phrase": "Mogu li puhati svijeće?"
+            },
+            {
+                "type": "🎂",
+                "phrase": "Koliko svijeća ima?"
+            }
+        ]
+    },
+    {
+        "slug": "party-hat",
+        "title": "Šešir",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi šešir za zabavu."
+            },
+            {
+                "type": "👚",
+                "phrase": "Nosit ću šešir za zabavu tijekom zabave."
+            }
+        ]
+    },
+    {
+        "slug": "balloons",
+        "title": "Baloni",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim balone."
+            },
+            {
+                "type": "🎈",
+                "phrase": "Mogu li iskočiti balone?"
+            }
+        ]
+    },
+    {
+        "slug": "garlands",
+        "title": "Vijenac",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim Garlands."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim nositi vijenac na svoju zabavu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi staviti ove vijenke u ruku?"
+            }
+        ]
+    },
+    {
+        "slug": "cake",
+        "title": "Torta",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti tortu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Mogu li dobiti krišku torte?"
+            }
+        ]
+    },
+    {
+        "slug": "ice-cream",
+        "title": "Sladoled",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti sladoled."
+            },
+            {
+                "type": "🍭",
+                "phrase": "Koji je vaš omiljeni okus?"
+            }
+        ]
+    },
+    {
+        "slug": "microphone",
+        "title": "Mikrofon",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igrati karaoke."
+            },
+            {
+                "type": "❤️",
+                "phrase": "Volim pjevati."
+            }
+        ]
+    },
+    {
+        "slug": "music",
+        "title": "glazba, muzika",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim svirati glazbu."
+            },
+            {
+                "type": "🎶",
+                "phrase": "Kakvu glazbu voliš?"
+            }
+        ]
+    },
+    {
+        "slug": "magician",
+        "title": "Mađioničar",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim mađioničari."
+            },
+            {
+                "type": "✨",
+                "phrase": "Želim biti mađioničar."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li me naučiti nekim čarobnim trikovima?"
+            }
+        ]
+    },
+    {
+        "slug": "taking-photos",
+        "title": "Fotografiranje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim fotografirati."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Mogu li fotografirati vaš telefon?"
+            }
+        ]
+    },
+    {
+        "slug": "invitation",
+        "title": "Poziv",
+        "phrases": [
+            {
+                "type": "📧",
+                "phrase": "Dobio sam poziv."
+            },
+            {
+                "type": "📨",
+                "phrase": "Mogu li pozvati svoje prijatelje na zabavu?"
+            },
+            {
+                "type": "📨",
+                "phrase": "Mogu li pozvati svoje prijatelje na rođendansku zabavu?"
+            },
+            {
+                "type": "📨",
+                "phrase": "Možemo li pozvati svoje prijatelje na zabavu moje sestre?"
+            },
+            {
+                "type": "📨",
+                "phrase": "Možemo li pozvati svoje prijatelje na zabavu svog brata?"
+            }
+        ]
+    },
+    {
+        "slug": "candy",
+        "title": "Bombon",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim slatkiše."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Mogu li pojesti bombone?"
+            }
+        ]
+    },
+    {
+        "slug": "popsicle",
+        "title": "Sladoled na štapiću",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim popsicle."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Mogu li pojesti malo popsicle?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možemo li napraviti neke popsicles?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li jesti popsicle?"
+            }
+        ]
+    },
+    {
+        "slug": "cupcake",
+        "title": "Kolačić",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim cupcake."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Mogu li pojesti kolač?"
+            }
+        ]
+    },
+    {
+        "slug": "costume",
+        "title": "Kostim",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi kostim."
+            },
+            {
+                "type": "🦸",
+                "phrase": "Mogu li nositi kostim Spider-Man?"
+            },
+            {
+                "type": "🦸‍♂️",
+                "phrase": "Mogu li nositi Batman kostim?"
+            },
+            {
+                "type": "🦸‍♀️",
+                "phrase": "Mogu li nositi kostim Wonder Woman?"
+            }
+        ]
+    },
+    {
+        "slug": "party-glasses",
+        "title": "Naočale",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim naočale za zabavu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Mogu li nositi naočale za zabavu?"
+            }
+        ]
+    },
+    {
+        "slug": "spotlights",
+        "title": "Reflektori",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim reflektore."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim reflektore."
+            }
+        ]
+    },
+    {
+        "slug": "marshmallow",
+        "title": "Bijeli slez",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim marshmallow."
+            },
+            {
+                "type": "🔥",
+                "phrase": "Kuham marshmallow preko vatre u kampu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti marshmallows."
+            }
+        ]
+    },
+    {
+        "slug": "guacamole",
+        "title": "Guacamole",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim guacamole."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Mogu li pojesti neki guacamole?"
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim jesti guacamole."
+            }
+        ]
+    },
+    {
+        "slug": "hotdog",
+        "title": "Hotdog",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim Hotdog."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Mogu li dobiti hotdog?"
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim jesti hotdogs."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Mogu li pojesti hotdogs?"
+            }
+        ]
+    },
+    {
+        "slug": "bouncy-castle",
+        "title": "Dvorac za skakanje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim Disccy dvorac."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim igrati u dvorcu Bouncy."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Igrajmo se u dvorcu Bouncy."
+            }
+        ]
+    },
+    {
+        "slug": "clown",
+        "title": "Klaun",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim klaunove."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim klaunove."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim biti klaun."
+            }
+        ]
+    },
+    {
+        "slug": "magic-hat",
+        "title": "Čarobni šešir",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim čarobne šešire."
+            },
+            {
+                "type": "🧙‍♂️",
+                "phrase": "Ja sam čarobnjak!"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim poput magije."
+            }
+        ]
+    },
+    {
+        "slug": "dart-board",
+        "title": "pikado",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igrati Dart."
+            },
+            {
+                "type": "🎯",
+                "phrase": "Igranje Dart -a može biti opasno."
+            }
+        ]
+    }
+]

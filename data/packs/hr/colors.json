@@ -1,0 +1,398 @@
+[
+    {
+        "slug": "crayons",
+        "title": "Bojice",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim bojice."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati bojice?"
+            },
+            {
+                "type": "🖍️",
+                "phrase": "Želim crtati pomoću svojih bojica."
+            }
+        ]
+    },
+    {
+        "slug": "red",
+        "title": "Crvena",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Crveno je."
+            },
+            {
+                "type": "💜",
+                "phrase": "Moja omiljena boja je crvena."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati crvenu boju?"
+            }
+        ]
+    },
+    {
+        "slug": "blue",
+        "title": "Plavi",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Plavo je."
+            },
+            {
+                "type": "💜",
+                "phrase": "Moja najdraža boja je plava."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati plavu boju?"
+            }
+        ]
+    },
+    {
+        "slug": "orange",
+        "title": "naranča",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Narančasta je boja."
+            },
+            {
+                "type": "💜",
+                "phrase": "Najdraža boja mi je narančasta."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati narančastu boju?"
+            }
+        ]
+    },
+    {
+        "slug": "green",
+        "title": "Zelena",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Zelena je."
+            },
+            {
+                "type": "💜",
+                "phrase": "Moja najdraža boja je zelena."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati zelenu boju?"
+            }
+        ]
+    },
+    {
+        "slug": "yellow",
+        "title": "Žuta boja",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Žuta je."
+            },
+            {
+                "type": "💜",
+                "phrase": "Najdraža boja mi je žuta."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati žutu boju?"
+            }
+        ]
+    },
+    {
+        "slug": "purple",
+        "title": "Ljubičasta boja",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Ljubičasta je."
+            },
+            {
+                "type": "💜",
+                "phrase": "Moja omiljena boja je ljubičasta."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati ljubičastu boju?"
+            }
+        ]
+    },
+    {
+        "slug": "pink",
+        "title": "Ružičasta",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Ružičasta je."
+            },
+            {
+                "type": "💜",
+                "phrase": "Moja omiljena boja je ružičasta."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati ružičastu boju?"
+            }
+        ]
+    },
+    {
+        "slug": "brown",
+        "title": "Smeđi",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Smeđa je."
+            },
+            {
+                "type": "💜",
+                "phrase": "Najdraža boja mi je smeđa."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati smeđu boju?"
+            }
+        ]
+    },
+    {
+        "slug": "black",
+        "title": "Crno",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Crno je."
+            },
+            {
+                "type": "💜",
+                "phrase": "Najdraža boja mi je crna."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati crnu boju?"
+            }
+        ]
+    },
+    {
+        "slug": "white",
+        "title": "Bijela boja",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Bijela je."
+            },
+            {
+                "type": "💜",
+                "phrase": "Najdraža boja mi je bijela."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati bijelu boju?"
+            }
+        ]
+    },
+    {
+        "slug": "gray",
+        "title": "Siva",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Siva je."
+            },
+            {
+                "type": "💜",
+                "phrase": "Najdraža boja mi je siva."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati sivu boju?"
+            }
+        ]
+    },
+    {
+        "slug": "transparent",
+        "title": "Transparentan",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Transparentno je."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidim iza prozirne boje."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da se izbrišem?"
+            }
+        ]
+    },
+    {
+        "slug": "cyan",
+        "title": "Cijan",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "To je cijan."
+            },
+            {
+                "type": "💜",
+                "phrase": "Najdraža boja mi je cijan."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati cijan boju?"
+            }
+        ]
+    },
+    {
+        "slug": "violet",
+        "title": "Ljubičasta",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "To je ljubičasta."
+            },
+            {
+                "type": "💜",
+                "phrase": "Najdraža boja mi je ljubičasta."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati ljubičastu boju?"
+            }
+        ]
+    },
+    {
+        "slug": "turquoise",
+        "title": "Tirkiz",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "Tirkizna je."
+            },
+            {
+                "type": "💜",
+                "phrase": "Najdraža boja mi je tirkizna."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati tirkiznu boju?"
+            }
+        ]
+    },
+    {
+        "slug": "lime",
+        "title": "Vapno",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "To je vapno."
+            },
+            {
+                "type": "💜",
+                "phrase": "Najdraža boja mi je vapno."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati limenu boju?"
+            }
+        ]
+    },
+    {
+        "slug": "plum",
+        "title": "Šljiva",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "To je šljiva."
+            },
+            {
+                "type": "💜",
+                "phrase": "Najdraža boja mi je šljiva."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati boju od šljiva?"
+            }
+        ]
+    },
+    {
+        "slug": "tan",
+        "title": "Preplanuti",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "To je tana boja."
+            },
+            {
+                "type": "💜",
+                "phrase": "Najdraža boja mi je tana boja."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati boju u boji?"
+            }
+        ]
+    },
+    {
+        "slug": "avocado",
+        "title": "Avokado",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "To je boja avokada."
+            },
+            {
+                "type": "💜",
+                "phrase": "Najdraža boja mi je boja avokada."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati boju u boji avokada?"
+            }
+        ]
+    },
+    {
+        "slug": "barbie-pink",
+        "title": "Barbie Pink",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "To je Barbie ružičasta boja."
+            },
+            {
+                "type": "💜",
+                "phrase": "Moja omiljena boja je Barbie Pink."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati Barbie ružičastu boju?"
+            }
+        ]
+    },
+    {
+        "slug": "blizzard-blue",
+        "title": "Blizzard Blue",
+        "phrases": [
+            {
+                "type": "👉",
+                "phrase": "To je Blizzard plava boja."
+            },
+            {
+                "type": "💜",
+                "phrase": "Najdraža boja mi je Blizzard Blue Color."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi dati plavu boju Blizzard?"
+            }
+        ]
+    }
+]

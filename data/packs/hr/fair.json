@@ -1,0 +1,137 @@
+[
+    {
+        "slug": "cotton-candy",
+        "title": "Bombon od pamuka",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti bombonske bombone."
+            }
+        ]
+    },
+    {
+        "slug": "magic-hat",
+        "title": "Čarobni šešir",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi čarobni šešir."
+            }
+        ]
+    },
+    {
+        "slug": "ferris-wheel",
+        "title": "Ferris kotač",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jahanje u Ferris kolu."
+            }
+        ]
+    },
+    {
+        "slug": "bowling",
+        "title": "Kuglanje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igrati kuglanje."
+            }
+        ]
+    },
+    {
+        "slug": "bumper-car",
+        "title": "Autić u lunaparku",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim voziti u braniku."
+            }
+        ]
+    },
+    {
+        "slug": "carousel",
+        "title": "Karusel",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jahanje u vrtiću."
+            }
+        ]
+    },
+    {
+        "slug": "balloons",
+        "title": "Baloni",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim balone."
+            }
+        ]
+    },
+    {
+        "slug": "cups",
+        "title": "Šalice",
+        "phrases": []
+    },
+    {
+        "slug": "unicycle",
+        "title": "Biti bicikl",
+        "phrases": []
+    },
+    {
+        "slug": "circus-tent",
+        "title": "Cirkuski šator",
+        "phrases": []
+    },
+    {
+        "slug": "food-truck",
+        "title": "Kamion s hranom",
+        "phrases": []
+    },
+    {
+        "slug": "tea-cup-ride",
+        "title": "Vožnja čaša za čaj",
+        "phrases": []
+    },
+    {
+        "slug": "whack-a-mole",
+        "title": "Udarati krtica",
+        "phrases": []
+    },
+    {
+        "slug": "food-stall",
+        "title": "Štand sa hranom",
+        "phrases": []
+    },
+    {
+        "slug": "claw-machine",
+        "title": "Stroj za kandža",
+        "phrases": []
+    },
+    {
+        "slug": "shooting-target",
+        "title": "Pucanja",
+        "phrases": []
+    },
+    {
+        "slug": "teddy-bear",
+        "title": "plišani medvjedić",
+        "phrases": []
+    },
+    {
+        "slug": "fireworks",
+        "title": "Vatromet",
+        "phrases": []
+    },
+    {
+        "slug": "caramelized-apple",
+        "title": "Karamelizirana jabuka",
+        "phrases": []
+    },
+    {
+        "slug": "ring",
+        "title": "Prsten",
+        "phrases": []
+    }
+]

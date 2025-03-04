@@ -1,0 +1,752 @@
+[
+    {
+        "slug": "hungry",
+        "title": "Gladan",
+        "phrases": [
+            {
+                "type": "‼️",
+                "phrase": "Gladan sam."
+            },
+            {
+                "type": "❓",
+                "phrase": "Jesi li gladan?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi napraviti hranu?"
+            },
+            {
+                "type": "🍳",
+                "phrase": "Što je za večeru?"
+            }
+        ]
+    },
+    {
+        "slug": "thirsty",
+        "title": "Žedan",
+        "phrases": [
+            {
+                "type": "‼️",
+                "phrase": "Žedan sam."
+            },
+            {
+                "type": "🌊",
+                "phrase": "Mogu li dobiti malo vode?"
+            },
+            {
+                "type": "🥛",
+                "phrase": "Mogu li dobiti casu vode?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim nešto popiti."
+            }
+        ]
+    },
+    {
+        "slug": "cutlery",
+        "title": "Pribor za jelo",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Trebam pribor za jelo."
+            },
+            {
+                "type": "🍽️",
+                "phrase": "Pomozite mi da koristim pribor za jelo."
+            },
+            {
+                "type": "🍴",
+                "phrase": "Trebam vilicu."
+            },
+            {
+                "type": "🥄",
+                "phrase": "Trebam žlicu."
+            },
+            {
+                "type": "🥢",
+                "phrase": "Trebam štapiće."
+            },
+            {
+                "type": "🔪",
+                "phrase": "Treba mi nož."
+            },
+            {
+                "type": "🧻",
+                "phrase": "Trebam salvetu."
+            }
+        ]
+    },
+    {
+        "slug": "apple",
+        "title": "Jabuka",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim Apple."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim Apple."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti jabuku."
+            }
+        ]
+    },
+    {
+        "slug": "carrot",
+        "title": "Mrkva",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim mrkvu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim mrkvu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti mrkvu."
+            }
+        ]
+    },
+    {
+        "slug": "beans",
+        "title": "Grah",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim grah."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim grah."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti grah."
+            }
+        ]
+    },
+    {
+        "slug": "chicken",
+        "title": "Piletina",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim piletinu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim piletinu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti piletinu."
+            },
+            {
+                "type": "🍗",
+                "phrase": "Želim prženu piletinu."
+            },
+            {
+                "type": "🐣",
+                "phrase": "Želim kuhanu piletinu."
+            }
+        ]
+    },
+    {
+        "slug": "chocolate",
+        "title": "Čokolada",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim čokoladu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim čokoladu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti čokoladu."
+            },
+            {
+                "type": "⚫",
+                "phrase": "Želim tamnu čokoladu."
+            },
+            {
+                "type": "⚪",
+                "phrase": "Želim bijelu čokoladu."
+            }
+        ]
+    },
+    {
+        "slug": "milk",
+        "title": "Mlijeko",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim mlijeko."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim mlijeko."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti mlijeko."
+            },
+            {
+                "type": "🍳",
+                "phrase": "Mogu li dobiti čašu mlijeka?"
+            }
+        ]
+    },
+    {
+        "slug": "sandwich",
+        "title": "Sendvič",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim sendvič."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim sendvič."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti sendvič."
+            },
+            {
+                "type": "🍳",
+                "phrase": "Možete li mi napraviti sendvič?"
+            }
+        ]
+    },
+    {
+        "slug": "steak",
+        "title": "Odrezak",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim odrezak."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim odrezak."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti odrezak."
+            },
+            {
+                "type": "🍳",
+                "phrase": "Možete li kuhati odrezak za mene?"
+            }
+        ]
+    },
+    {
+        "slug": "banana",
+        "title": "Banana",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim bananu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim bananu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti bananu."
+            }
+        ]
+    },
+    {
+        "slug": "pie",
+        "title": "Pita",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Sviđa mi se pita."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim pita."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti pitu."
+            },
+            {
+                "type": "🍳",
+                "phrase": "Možete li mi ispeći pitu?"
+            }
+        ]
+    },
+    {
+        "slug": "egg",
+        "title": "Jaje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jaje."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim jaje."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti jaje."
+            },
+            {
+                "type": "🍳",
+                "phrase": "Želim pržena jaja."
+            },
+            {
+                "type": "🥚",
+                "phrase": "Želim kuhana jaja."
+            }
+        ]
+    },
+    {
+        "slug": "noodles",
+        "title": "Rezanci",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim rezance."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim rezance."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti rezance."
+            },
+            {
+                "type": "🍳",
+                "phrase": "Možete li kuhati rezance za mene?"
+            }
+        ]
+    },
+    {
+        "slug": "salt",
+        "title": "Sol",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim sol."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možeš li mi dodati sol?"
+            },
+            {
+                "type": "🧂",
+                "phrase": "Hrana je previše slana."
+            },
+            {
+                "type": "🧂",
+                "phrase": "Moja hrana treba malo soli."
+            }
+        ]
+    },
+    {
+        "slug": "spices",
+        "title": "Začini",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim začinjenu hranu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim začinjenu hranu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim papriku."
+            },
+            {
+                "type": "⚫",
+                "phrase": "Želim crni papar."
+            }
+        ]
+    },
+    {
+        "slug": "pizza",
+        "title": "Pizza",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim pizzu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim pizzu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti pizzu."
+            },
+            {
+                "type": "🍳",
+                "phrase": "Možete li kuhati pizzu za mene?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možemo li naručiti pizzu?"
+            }
+        ]
+    },
+    {
+        "slug": "cheese",
+        "title": "Sir",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim sir."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim sir."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti sir."
+            }
+        ]
+    },
+    {
+        "slug": "fish",
+        "title": "Riba",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Ja volim ribu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim ribu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti ribu."
+            },
+            {
+                "type": "🍳",
+                "phrase": "Možete li mi kuhati ribu?"
+            }
+        ]
+    },
+    {
+        "slug": "ice-cream",
+        "title": "Sladoled",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim sladoled."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim sladoled."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti sladoled."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li mi kupiti sladoled?"
+            }
+        ]
+    },
+    {
+        "slug": "tea",
+        "title": "Čaj",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim čaj."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim čaj."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti čaj."
+            },
+            {
+                "type": "🍳",
+                "phrase": "Možete li napraviti čaj za mene?"
+            }
+        ]
+    },
+    {
+        "slug": "coffee",
+        "title": "Kava",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim kavu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim kavu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti kavu."
+            },
+            {
+                "type": "🍳",
+                "phrase": "Možete li mi napraviti kavu?"
+            }
+        ]
+    },
+    {
+        "slug": "tomato",
+        "title": "Rajčica",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim rajčicu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim rajčicu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti rajčicu."
+            }
+        ]
+    },
+    {
+        "slug": "cereal",
+        "title": "Žitarica",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim žitarice."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim žitarice."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti žitarice."
+            },
+            {
+                "type": "🍳",
+                "phrase": "Možete li mi napraviti žitarice?"
+            }
+        ]
+    },
+    {
+        "slug": "burger",
+        "title": "Hamburger",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim hamburger."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim hamburger."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti hamburger."
+            },
+            {
+                "type": "🍳",
+                "phrase": "Možete li mi kuhati hamburger?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možemo li naručiti burger?"
+            }
+        ]
+    },
+    {
+        "slug": "french-fries",
+        "title": "pomfrit",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim pomfrit."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim pomfrit."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti pomfrit."
+            },
+            {
+                "type": "🍳",
+                "phrase": "Možete li mi kuhati pomfrit?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možemo li naručiti pomfrit?"
+            }
+        ]
+    },
+    {
+        "slug": "spinach",
+        "title": "Špinat",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim špinat."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim špinat."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti špinat."
+            }
+        ]
+    },
+    {
+        "slug": "rice",
+        "title": "Riža",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim rižu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim rižu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti rižu."
+            },
+            {
+                "type": "🍳",
+                "phrase": "Možete li mi kuhati rižu?"
+            }
+        ]
+    },
+    {
+        "slug": "bread",
+        "title": "Kruh",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim kruh."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim kruh."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti kruh."
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li kupiti kruh?"
+            }
+        ]
+    },
+    {
+        "slug": "pasta",
+        "title": "Tjestenina",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim tjesteninu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim tjesteninu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti tjesteninu."
+            },
+            {
+                "type": "🍳",
+                "phrase": "Možete li kuhati tjesteninu za mene?"
+            }
+        ]
+    },
+    {
+        "slug": "sauce",
+        "title": "Umak",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim umak."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim umak."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim neki umak."
+            },
+            {
+                "type": "🔴",
+                "phrase": "Mogu li dobiti kečap?"
+            },
+            {
+                "type": "⚪",
+                "phrase": "Mogu li dobiti majonezu?"
+            },
+            {
+                "type": "🟡",
+                "phrase": "Mogu li dobiti senf?"
+            },
+            {
+                "type": "🚜",
+                "phrase": "Mogu li dobiti umak od ranča?"
+            }
+        ]
+    },
+    {
+        "slug": "kebab",
+        "title": "Kebab",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Sviđa mi se Kebab."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim kebab."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti kebab."
+            },
+            {
+                "type": "🍳",
+                "phrase": "Možete li kuhati kebab za mene?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možemo li naručiti kebab?"
+            }
+        ]
+    }
+]

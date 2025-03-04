@@ -1,0 +1,976 @@
+[
+    {
+        "slug": "cat",
+        "title": "Mačka",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim mačke."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam mačku."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara mačka?"
+            },
+            {
+                "type": "🐈",
+                "phrase": "Možemo li dobiti mačku kao kućnog ljubimca?"
+            }
+        ]
+    },
+    {
+        "slug": "dog",
+        "title": "Pas",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim psa."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam psa."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara pas?"
+            },
+            {
+                "type": "🐕",
+                "phrase": "Možemo li dobiti psa kao kućnog ljubimca?"
+            }
+        ]
+    },
+    {
+        "slug": "fish",
+        "title": "Riba",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Ja volim ribu."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam ribu."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku riba stvara?"
+            },
+            {
+                "type": "🐠",
+                "phrase": "Možemo li dobiti ribu kao kućnog ljubimca?"
+            }
+        ]
+    },
+    {
+        "slug": "rabbit",
+        "title": "Zec",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim zečeve."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam zeca."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku zec stvara?"
+            },
+            {
+                "type": "🐇",
+                "phrase": "Možemo li dobiti zeca kao kućnog ljubimca?"
+            }
+        ]
+    },
+    {
+        "slug": "butterfly",
+        "title": "Leptir",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim leptire."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam leptira."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku napravi leptir?"
+            }
+        ]
+    },
+    {
+        "slug": "kangaroo",
+        "title": "Klokan",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Sviđa mi se kengaroos."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam kenguru."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara kenguru?"
+            }
+        ]
+    },
+    {
+        "slug": "turtle",
+        "title": "Kornjača",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim kornjače."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam kornjaču."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara kornjača?"
+            }
+        ]
+    },
+    {
+        "slug": "giraffe",
+        "title": "Žirafa",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim žirafe."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam žirafu."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara žirafa?"
+            }
+        ]
+    },
+    {
+        "slug": "frog",
+        "title": "Žaba",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim žabe."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam žabu."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Koju buku stvara žaba?"
+            }
+        ]
+    },
+    {
+        "slug": "swan",
+        "title": "Labud",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim labudove."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam labuda."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara labud?"
+            }
+        ]
+    },
+    {
+        "slug": "spider",
+        "title": "Pauk",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim pauke."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam pauka."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara pauk?"
+            }
+        ]
+    },
+    {
+        "slug": "cow",
+        "title": "Krava",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim krave."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam kravu."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara krava?"
+            }
+        ]
+    },
+    {
+        "slug": "duck",
+        "title": "Patka",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim patke."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam patku."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara patka?"
+            }
+        ]
+    },
+    {
+        "slug": "horse",
+        "title": "Konj",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim konje."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam konja."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku konj stvara?"
+            }
+        ]
+    },
+    {
+        "slug": "chicken",
+        "title": "Piletina",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim piliće."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam piletinu."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara piletina?"
+            }
+        ]
+    },
+    {
+        "slug": "bee",
+        "title": "Pčela",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim pčele."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam pčelu."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku pčela stvara?"
+            }
+        ]
+    },
+    {
+        "slug": "pig",
+        "title": "Svinja",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim svinje."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam svinju."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara svinja?"
+            }
+        ]
+    },
+    {
+        "slug": "dove",
+        "title": "Golubica",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim golubice."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam golubicu."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara golub?"
+            }
+        ]
+    },
+    {
+        "slug": "crab",
+        "title": "Rak",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim rakove."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam rak."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara rak?"
+            }
+        ]
+    },
+    {
+        "slug": "penguin",
+        "title": "Pingvin",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim pingvine."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam pingvina."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara pingvin?"
+            }
+        ]
+    },
+    {
+        "slug": "elephant",
+        "title": "Slon",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim slonove."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam slona."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku pravi slon?"
+            }
+        ]
+    },
+    {
+        "slug": "zebra",
+        "title": "Zebra",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim zebre."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam zebru."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara zebra?"
+            }
+        ]
+    },
+    {
+        "slug": "panda",
+        "title": "Panda",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim pande."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam pandu."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara panda?"
+            }
+        ]
+    },
+    {
+        "slug": "monkey",
+        "title": "Majmun",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim majmune."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam majmuna."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara majmun?"
+            }
+        ]
+    },
+    {
+        "slug": "camel",
+        "title": "Deva",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim deve."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam devu."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara deva?"
+            }
+        ]
+    },
+    {
+        "slug": "mouse",
+        "title": "Miš",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim miševe."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam miš."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku miš stvara?"
+            }
+        ]
+    },
+    {
+        "slug": "tiger",
+        "title": "Tigar",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim tigrove."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam tigara."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Koju buku stvara tigar?"
+            }
+        ]
+    },
+    {
+        "slug": "jellyfish",
+        "title": "Meduza",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim meduze."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam meduzu."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara meduze?"
+            }
+        ]
+    },
+    {
+        "slug": "crocodile",
+        "title": "Krokodil",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim krokodile."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam krokodila."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara krokodil?"
+            }
+        ]
+    },
+    {
+        "slug": "koala",
+        "title": "Koala",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim koale."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam koalu."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku koala stvara?"
+            }
+        ]
+    },
+    {
+        "slug": "ostrich",
+        "title": "Noj",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nojeve."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam noj."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara noj?"
+            }
+        ]
+    },
+    {
+        "slug": "racoon",
+        "title": "Rakun",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim rakune."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam rakun."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara rakuon?"
+            }
+        ]
+    },
+    {
+        "slug": "bat",
+        "title": "Šišmiš",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim šišmiše."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam palicu."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara šišmiš?"
+            }
+        ]
+    },
+    {
+        "slug": "eagle",
+        "title": "Orao",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim orlove."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam orla."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara orao?"
+            }
+        ]
+    },
+    {
+        "slug": "hippopotamus",
+        "title": "Nilski konj",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim hipopotamus."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam hipopotamus."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku radi hipopotamus?"
+            }
+        ]
+    },
+    {
+        "slug": "seal",
+        "title": "Pečat",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim pečate."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam pečat."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku napravi brtva?"
+            }
+        ]
+    },
+    {
+        "slug": "walrus",
+        "title": "Morž",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim morske."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam mors."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara mors?"
+            }
+        ]
+    },
+    {
+        "slug": "seahorse",
+        "title": "morski konj",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim morske konje."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam morsku konju."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara morski konji?"
+            }
+        ]
+    },
+    {
+        "slug": "bull",
+        "title": "Bik",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim bikove."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam bika."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku bik stvara?"
+            }
+        ]
+    },
+    {
+        "slug": "pelican",
+        "title": "Pelikan",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim pelikane."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam pelikana."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara pelikan?"
+            }
+        ]
+    },
+    {
+        "slug": "beaver",
+        "title": "Dabar",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim Beavers."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam dabar."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara dabar?"
+            }
+        ]
+    },
+    {
+        "slug": "goldfish",
+        "title": "Zlatna ribica",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim zlatne ribice."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam zlatnu ribicu."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Koju buku stvara zlatnu ribicu?"
+            },
+            {
+                "type": "🐠",
+                "phrase": "Možemo li dobiti zlatnu ribicu kao kućnog ljubimca?"
+            }
+        ]
+    },
+    {
+        "slug": "rhinoceros",
+        "title": "Nosorog",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nosoroge."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam nosorog."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara nosorog?"
+            }
+        ]
+    },
+    {
+        "slug": "snake",
+        "title": "Zmija",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim zmije."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam zmiju."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku zmija stvara?"
+            }
+        ]
+    },
+    {
+        "slug": "lion",
+        "title": "Lav",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim lavove."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam lava."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara lav?"
+            }
+        ]
+    },
+    {
+        "slug": "squid",
+        "title": "Lignja",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim lignje."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam lignje."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara lignje?"
+            }
+        ]
+    },
+    {
+        "slug": "whale",
+        "title": "Kit",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim kitove."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam kita."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara kitov?"
+            }
+        ]
+    },
+    {
+        "slug": "beetle",
+        "title": "Buba",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim bube."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam buba."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara buba?"
+            }
+        ]
+    },
+    {
+        "slug": "dolphin",
+        "title": "Dupin",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim dupine."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam dupina."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara dupin?"
+            }
+        ]
+    },
+    {
+        "slug": "starfish",
+        "title": "Zvijezde",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim zvijezde."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam zvijezdu."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara zvijezde?"
+            }
+        ]
+    },
+    {
+        "slug": "parakeet",
+        "title": "Mali papagaj",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim papageti."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam papagaja."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku stvara papagaj?"
+            }
+        ]
+    },
+    {
+        "slug": "owl",
+        "title": "Sova",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim sove."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam sovu."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku sova stvara?"
+            }
+        ]
+    },
+    {
+        "slug": "sheep",
+        "title": "Ovca",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim ovce."
+            },
+            {
+                "type": "👀",
+                "phrase": "Vidio sam ovcu."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Kakvu buku proizvodi ovca?"
+            }
+        ]
+    }
+]

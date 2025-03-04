@@ -1,0 +1,278 @@
+[
+    {
+        "slug": "one",
+        "title": "Jedan",
+        "phrases": [
+            {
+                "type": "➖",
+                "phrase": "Jedan dolazi prije dva."
+            },
+            {
+                "type": "➕",
+                "phrase": "Jedan dolazi nakon nule."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jedan."
+            }
+        ]
+    },
+    {
+        "slug": "two",
+        "title": "Dva",
+        "phrases": [
+            {
+                "type": "➖",
+                "phrase": "Dva dolaze prije tri."
+            },
+            {
+                "type": "➕",
+                "phrase": "Dva dolaze nakon jednog."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim dva."
+            }
+        ]
+    },
+    {
+        "slug": "three",
+        "title": "Tri",
+        "phrases": [
+            {
+                "type": "➖",
+                "phrase": "Tri dolaze prije četiri."
+            },
+            {
+                "type": "➕",
+                "phrase": "Tri dolaze nakon dva."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim tri."
+            }
+        ]
+    },
+    {
+        "slug": "four",
+        "title": "Četvero",
+        "phrases": [
+            {
+                "type": "➖",
+                "phrase": "Četiri dolaze prije pet."
+            },
+            {
+                "type": "➕",
+                "phrase": "Četiri dolaze nakon tri."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim četiri."
+            }
+        ]
+    },
+    {
+        "slug": "five",
+        "title": "Pet",
+        "phrases": [
+            {
+                "type": "➖",
+                "phrase": "Pet dolazi prije šest."
+            },
+            {
+                "type": "➕",
+                "phrase": "Pet dolazi nakon četiri."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pet."
+            }
+        ]
+    },
+    {
+        "slug": "six",
+        "title": "Šest",
+        "phrases": [
+            {
+                "type": "➖",
+                "phrase": "Šest dolazi prije sedam."
+            },
+            {
+                "type": "➕",
+                "phrase": "Šest dolazi nakon pet."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim popraviti."
+            }
+        ]
+    },
+    {
+        "slug": "seven",
+        "title": "Sedam",
+        "phrases": [
+            {
+                "type": "➖",
+                "phrase": "Sedam dolazi prije osam."
+            },
+            {
+                "type": "➕",
+                "phrase": "Sedam dolazi nakon šest."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim sedam."
+            }
+        ]
+    },
+    {
+        "slug": "eight",
+        "title": "Osam",
+        "phrases": [
+            {
+                "type": "➖",
+                "phrase": "Osam dolazi prije devet."
+            },
+            {
+                "type": "➕",
+                "phrase": "Osam dolazi nakon sedam."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim osam."
+            }
+        ]
+    },
+    {
+        "slug": "nine",
+        "title": "Devet",
+        "phrases": [
+            {
+                "type": "➖",
+                "phrase": "Devet dolazi prije deset."
+            },
+            {
+                "type": "➕",
+                "phrase": "Devet dolazi nakon osam."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim devet."
+            }
+        ]
+    },
+    {
+        "slug": "ten",
+        "title": "Deset",
+        "phrases": [
+            {
+                "type": "➖",
+                "phrase": "Deset dolazi prije jedanaest."
+            },
+            {
+                "type": "➕",
+                "phrase": "Deset dolazi nakon devet."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim deset."
+            }
+        ]
+    },
+    {
+        "slug": "eleven",
+        "title": "Jedanaest",
+        "phrases": [
+            {
+                "type": "➖",
+                "phrase": "Jedanaest dolazi prije trinaest."
+            },
+            {
+                "type": "➕",
+                "phrase": "Jedanaest dolazi nakon deset."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jedanaest."
+            }
+        ]
+    },
+    {
+        "slug": "twenty",
+        "title": "Dvadeset",
+        "phrases": [
+            {
+                "type": "🔢",
+                "phrase": "Mogu računati do dvadeset."
+            }
+        ]
+    },
+    {
+        "slug": "thirty",
+        "title": "Trideset",
+        "phrases": [
+            {
+                "type": "🔢",
+                "phrase": "Mogu računati do trideset."
+            }
+        ]
+    },
+    {
+        "slug": "forty",
+        "title": "Četrdeset",
+        "phrases": [
+            {
+                "type": "🔢",
+                "phrase": "Mogu računati do četrdeset."
+            }
+        ]
+    },
+    {
+        "slug": "fifty",
+        "title": "Pedeset",
+        "phrases": [
+            {
+                "type": "🔢",
+                "phrase": "Mogu računati do pedeset."
+            }
+        ]
+    },
+    {
+        "slug": "hundred",
+        "title": "Stotina",
+        "phrases": [
+            {
+                "type": "🔢",
+                "phrase": "Mogu računati do stotinu."
+            }
+        ]
+    },
+    {
+        "slug": "thousand",
+        "title": "Tisuću",
+        "phrases": [
+            {
+                "type": "🔢",
+                "phrase": "Mogu računati do tisuću."
+            }
+        ]
+    },
+    {
+        "slug": "calculator",
+        "title": "Kalkulator",
+        "phrases": [
+            {
+                "type": "🖩",
+                "phrase": "Želim koristiti kalkulator."
+            },
+            {
+                "type": "🧮",
+                "phrase": "Možete li me naučiti kako koristiti kalkulator?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Mogu li posuditi vaš kalkulator?"
+            }
+        ]
+    }
+]

@@ -1,0 +1,590 @@
+[
+    {
+        "slug": "pants",
+        "title": "Hlače",
+        "phrases": [
+            {
+                "type": "🧼",
+                "phrase": "Hlače su mi prljave."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim hlače?"
+            }
+        ]
+    },
+    {
+        "slug": "shirt",
+        "title": "Košulja",
+        "phrases": [
+            {
+                "type": "🧼",
+                "phrase": "Moja košulja je prljava."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći nositi majicu?"
+            }
+        ]
+    },
+    {
+        "slug": "skirt",
+        "title": "Suknja",
+        "phrases": [
+            {
+                "type": "🧼",
+                "phrase": "Moja suknja je prljava."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim suknju?"
+            }
+        ]
+    },
+    {
+        "slug": "panty",
+        "title": "Gaćica",
+        "phrases": [
+            {
+                "type": "🧼",
+                "phrase": "Moje donje rublje je prljavo."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim hlače?"
+            }
+        ]
+    },
+    {
+        "slug": "jacket",
+        "title": "Jakna",
+        "phrases": [
+            {
+                "type": "🧼",
+                "phrase": "Moja jakna je prljava."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim jaknu?"
+            }
+        ]
+    },
+    {
+        "slug": "tie",
+        "title": "Kravata",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi kravatu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da vežem kravatu?"
+            }
+        ]
+    },
+    {
+        "slug": "baseball-cap",
+        "title": "Šilterica",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi bejzbol kapu."
+            },
+            {
+                "type": "❓",
+                "phrase": "Koju bejzbolsku kapu trebam nositi?"
+            }
+        ]
+    },
+    {
+        "slug": "dress",
+        "title": "Haljina",
+        "phrases": [
+            {
+                "type": "🧼",
+                "phrase": "Moja haljina je prljava."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim haljinu?"
+            }
+        ]
+    },
+    {
+        "slug": "shoes",
+        "title": "Cipele",
+        "phrases": [
+            {
+                "type": "🧼",
+                "phrase": "Cipele su mi prljave."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći nositi cipele?"
+            }
+        ]
+    },
+    {
+        "slug": "boots",
+        "title": "Čizme",
+        "phrases": [
+            {
+                "type": "🧼",
+                "phrase": "Moje su čizme prljave."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim čizme?"
+            }
+        ]
+    },
+    {
+        "slug": "sneakers",
+        "title": "Tenisice",
+        "phrases": [
+            {
+                "type": "🎈",
+                "phrase": "Želim nositi tenisice."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim tenisice?"
+            }
+        ]
+    },
+    {
+        "slug": "slippers",
+        "title": "Papuče",
+        "phrases": [
+            {
+                "type": "🎈",
+                "phrase": "Želim nositi svoje papuče."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći nositi papuče?"
+            }
+        ]
+    },
+    {
+        "slug": "belt",
+        "title": "Pojas",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi pojas."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim pojas?"
+            }
+        ]
+    },
+    {
+        "slug": "socks",
+        "title": "Čarape",
+        "phrases": [
+            {
+                "type": "🧼",
+                "phrase": "Čarape su mi prljave."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim čarape?"
+            }
+        ]
+    },
+    {
+        "slug": "swimsuit",
+        "title": "Kupaći kostim",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Želim nositi svoj kupaći kostim."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim kupaći kostim?"
+            }
+        ]
+    },
+    {
+        "slug": "sweater",
+        "title": "Džemper",
+        "phrases": [
+            {
+                "type": "🧼",
+                "phrase": "Džemper je prljav."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim džemper?"
+            }
+        ]
+    },
+    {
+        "slug": "scarf",
+        "title": "Šal",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi šal."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim svoj šal?"
+            }
+        ]
+    },
+    {
+        "slug": "denim-shorts",
+        "title": "Traper kratke hlače",
+        "phrases": [
+            {
+                "type": "🧼",
+                "phrase": "Moje traper kratke hlače su prljave."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim traper kratke hlače?"
+            }
+        ]
+    },
+    {
+        "slug": "hoodies",
+        "title": "Kapuljača",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi kapuljače."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim kapuljaču?"
+            }
+        ]
+    },
+    {
+        "slug": "swimming-shorts",
+        "title": "Plivanje kratkih hlača",
+        "phrases": [
+            {
+                "type": "🧼",
+                "phrase": "Moje plivačke kratke hlače su prljave."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći nositi kratke hlače?"
+            }
+        ]
+    },
+    {
+        "slug": "bow-tie",
+        "title": "Kravata",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi kravatu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim kravatu?"
+            }
+        ]
+    },
+    {
+        "slug": "leather-jacket",
+        "title": "Kožna jakna",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi kožnu jaknu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim svoju kožnu jaknu?"
+            }
+        ]
+    },
+    {
+        "slug": "bathrobe",
+        "title": "Kupaonica",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi ogranče."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim svoj ogrtač?"
+            }
+        ]
+    },
+    {
+        "slug": "jumpsuit",
+        "title": "Kombinezon",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi kombinezon."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim kombinezon?"
+            }
+        ]
+    },
+    {
+        "slug": "fedora-hat",
+        "title": "Fedora šešir",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi šešir Fedora."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim svoj šešir Fedora?"
+            }
+        ]
+    },
+    {
+        "slug": "t-shirt",
+        "title": "majica",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi majicu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći nositi majicu?"
+            }
+        ]
+    },
+    {
+        "slug": "sleeveless",
+        "title": "Bez rukava",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi bez rukava."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim bez rukava?"
+            }
+        ]
+    },
+    {
+        "slug": "boxers",
+        "title": "Bokseri",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi boksere."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim svoje boksere?"
+            }
+        ]
+    },
+    {
+        "slug": "vest",
+        "title": "Prsluk",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi prsluk."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim prsluk?"
+            }
+        ]
+    },
+    {
+        "slug": "pamela-hat",
+        "title": "Pamela šešir",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi Pamela šešir."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći nositi šešir Pamela?"
+            }
+        ]
+    },
+    {
+        "slug": "high-heels",
+        "title": "Štikle",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi visoke potpetice."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim visoke potpetice?"
+            }
+        ]
+    },
+    {
+        "slug": "overalls",
+        "title": "Kombinezon",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi kombinezone."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim svoj kombinezon?"
+            }
+        ]
+    },
+    {
+        "slug": "kimono",
+        "title": "Kimono",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi kimono."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim svoj kimono?"
+            }
+        ]
+    },
+    {
+        "slug": "raincoat",
+        "title": "Kabanica",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi kabanicu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim svoj kišni ogrtač?"
+            }
+        ]
+    },
+    {
+        "slug": "bandana",
+        "title": "Rubac",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi bandanu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim svoju bandanu?"
+            }
+        ]
+    },
+    {
+        "slug": "beret",
+        "title": "Beretka",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi beretu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim svoju beretku?"
+            }
+        ]
+    },
+    {
+        "slug": "knit-hat",
+        "title": "Pleteni šešir",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi pleteni šešir."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim pleteni šešir?"
+            }
+        ]
+    },
+    {
+        "slug": "suspenders",
+        "title": "Pričvršćivači",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi suspendove."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim svoje obustave?"
+            }
+        ]
+    },
+    {
+        "slug": "mitten",
+        "title": "Rukavica",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi Mitten."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim rukavac?"
+            }
+        ]
+    },
+    {
+        "slug": "suit",
+        "title": "Odijelo",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi odijelo."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim odijelo?"
+            }
+        ]
+    },
+    {
+        "slug": "coat",
+        "title": "Kaput",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi kaput."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći nositi kaput?"
+            }
+        ]
+    },
+    {
+        "slug": "trench-coat",
+        "title": "Kaput",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim nositi kaput."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da nosim svoj kaput?"
+            }
+        ]
+    }
+]

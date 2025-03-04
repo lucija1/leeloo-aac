@@ -1,0 +1,528 @@
+[
+    {
+        "slug": "cucumber",
+        "title": "Krastavac",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti krastavac."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti krastavac."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim krastavac."
+            }
+        ]
+    },
+    {
+        "slug": "onion",
+        "title": "Luk",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti luk."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti luk."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim luk."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne sviđa mi se miris luka."
+            }
+        ]
+    },
+    {
+        "slug": "garlic",
+        "title": "Češnjak",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti češnjak."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti češnjak."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim češnjak."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne sviđa mi se miris češnjaka."
+            }
+        ]
+    },
+    {
+        "slug": "carrot",
+        "title": "Mrkva",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti mrkvu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti mrkvu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim mrkvu."
+            }
+        ]
+    },
+    {
+        "slug": "cabbage",
+        "title": "Kupus",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti kupus."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti kupus."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim kupus."
+            }
+        ]
+    },
+    {
+        "slug": "tomato",
+        "title": "Rajčica",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti rajčicu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti rajčicu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim rajčicu."
+            },
+            {
+                "type": "❤️",
+                "phrase": "Volim imati juhu od rajčice."
+            }
+        ]
+    },
+    {
+        "slug": "eggplant",
+        "title": "Patlidžan",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti patlidžan."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti patlidžan."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim patlidžan."
+            }
+        ]
+    },
+    {
+        "slug": "mushroom",
+        "title": "Gljiva",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti gljivu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti gljivu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim gljive."
+            },
+            {
+                "type": "❤️",
+                "phrase": "Volim imati juhu od gljiva."
+            }
+        ]
+    },
+    {
+        "slug": "pepper",
+        "title": "Papar",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti papar."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti papar."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim papar."
+            }
+        ]
+    },
+    {
+        "slug": "corn",
+        "title": "Kukuruz",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti kukuruz."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti kukuruz."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim kukuruz."
+            },
+            {
+                "type": "❤️",
+                "phrase": "Volim imati kukuruznu juhu."
+            }
+        ]
+    },
+    {
+        "slug": "broccoli",
+        "title": "Brokula",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti brokoli."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti brokoli."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim brokoli."
+            }
+        ]
+    },
+    {
+        "slug": "celery",
+        "title": "Celer",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti celer."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti celer."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim celer."
+            }
+        ]
+    },
+    {
+        "slug": "chili",
+        "title": "Chili",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti čili."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti čili."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim čili."
+            }
+        ]
+    },
+    {
+        "slug": "potato",
+        "title": "Krumpir",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti krumpir."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti krumpir."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim krumpir."
+            },
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti pomfrit."
+            }
+        ]
+    },
+    {
+        "slug": "asparagus",
+        "title": "Šparoga",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti šparoge."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti šparoge."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim šparoge."
+            }
+        ]
+    },
+    {
+        "slug": "cauliflower",
+        "title": "Karfiol",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti karfiol."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti karfiol."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim karfiol."
+            }
+        ]
+    },
+    {
+        "slug": "pumpkin",
+        "title": "Bundeva",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti bundevu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti bundevu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim bundeve."
+            },
+            {
+                "type": "❤️",
+                "phrase": "Volim imati juhu od bundeve."
+            }
+        ]
+    },
+    {
+        "slug": "beetroot",
+        "title": "Cikle",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti cikle."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti cikle."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim cikle."
+            }
+        ]
+    },
+    {
+        "slug": "bean",
+        "title": "Grah",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti grah."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti grah."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim grah."
+            }
+        ]
+    },
+    {
+        "slug": "lettuce",
+        "title": "Salata",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti salatu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti salatu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim salatu."
+            },
+            {
+                "type": "❤️",
+                "phrase": "Volim da moja salata ima više salate."
+            }
+        ]
+    },
+    {
+        "slug": "radish",
+        "title": "Rotkvica",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti rotkvicu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti rotkvicu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim rotkvica."
+            }
+        ]
+    },
+    {
+        "slug": "bok-choy",
+        "title": "Bok choy",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti Bok Choy."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti bok choy."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim Bok Choy."
+            }
+        ]
+    },
+    {
+        "slug": "leek",
+        "title": "Poriluk",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti poriluk."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti poriluk."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim poriluk."
+            }
+        ]
+    },
+    {
+        "slug": "peas",
+        "title": "Grašak",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti grašak."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti grašak."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim grašak."
+            }
+        ]
+    },
+    {
+        "slug": "ginger",
+        "title": "Đumbir",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti đumbir."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti đumbir."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim đumbir."
+            }
+        ]
+    },
+    {
+        "slug": "sweet-potato",
+        "title": "Slatki krumpir",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti slatki krumpir."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti slatki krumpir."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim slatki krumpir."
+            },
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti prženi slatki krumpir."
+            }
+        ]
+    },
+    {
+        "slug": "olives",
+        "title": "Masline",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti masline."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim pojesti masline."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim masline."
+            },
+            {
+                "type": "❤️",
+                "phrase": "Volim masline u svojoj pizzi."
+            }
+        ]
+    }
+]

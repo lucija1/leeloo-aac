@@ -1,0 +1,466 @@
+[
+    {
+        "slug": "walking",
+        "title": "Šetnja",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim ići u šetnju"
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim ići u šetnju"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Hoćemo ići šetati skupa?"
+            }
+        ]
+    },
+    {
+        "slug": "running",
+        "title": "Trčanje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim trčanje."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim trčati."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želiš li da idemo trčati?"
+            }
+        ]
+    },
+    {
+        "slug": "talking",
+        "title": "Pričanje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim pričati"
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim pričati"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želiš li pričati sa mnom?"
+            }
+        ]
+    },
+    {
+        "slug": "reading",
+        "title": "Čitanje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim čitati."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim čitati."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Hoćemo li zajedno čitati?"
+            }
+        ]
+    },
+    {
+        "slug": "football",
+        "title": "Nogomet",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igrati nogomet."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim igrati nogomet."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Hoćemo li igrati nogomet?"
+            }
+        ]
+    },
+    {
+        "slug": "basketball",
+        "title": "Košarka",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igrati košarku."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim igrati košarku."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Hoćemo li igrati košarku?"
+            }
+        ]
+    },
+    {
+        "slug": "swimming",
+        "title": "Plivanje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim plivanje."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim plivati."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Hoćemo li ići plivati?"
+            }
+        ]
+    },
+    {
+        "slug": "painting",
+        "title": "Slika",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim slikati."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim slikati."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Hoćemo li slikati zajedno?"
+            }
+        ]
+    },
+    {
+        "slug": "drawing",
+        "title": "Crtanje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim crtati."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim crtati."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Hoćemo li crtati zajedno?"
+            }
+        ]
+    },
+    {
+        "slug": "cycling",
+        "title": "Bicikliranje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim bicikliranje."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim bicikliranje."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Hoćemo li ići biciklirati?"
+            }
+        ]
+    },
+    {
+        "slug": "skating",
+        "title": "Klizanje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim klizanje."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim klizanje."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li ići na klizanje?"
+            }
+        ]
+    },
+    {
+        "slug": "sightseeing",
+        "title": "Razgledavanje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim razgledavanje."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim razgledati."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li ići na razgledavanje?"
+            }
+        ]
+    },
+    {
+        "slug": "video-games",
+        "title": "Video igre",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igrati video igre."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim igrati videoigre."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li igrati igre?"
+            }
+        ]
+    },
+    {
+        "slug": "tidying",
+        "title": "Uređenje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim uređivati ​​svoju sobu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim uređivati ​​svoju sobu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći urediti svoju sobu?"
+            }
+        ]
+    },
+    {
+        "slug": "toys",
+        "title": "Igračke",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igračke."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim igračke."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li se igrati s mojim igračkama?"
+            }
+        ]
+    },
+    {
+        "slug": "puzzle",
+        "title": "Puzzle",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim rješavati slagalicu."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim rješavati slagalicu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li riješiti zagonetke sa mnom?"
+            }
+        ]
+    },
+    {
+        "slug": "comics",
+        "title": "Stripovi",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim čitati stripove."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim čitati stripove."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li čitati stripove?"
+            }
+        ]
+    },
+    {
+        "slug": "chess",
+        "title": "Šah",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igrati šah."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim igrati šah."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li igrati šah sa mnom?"
+            }
+        ]
+    },
+    {
+        "slug": "using-leeloo",
+        "title": "Koristeći leeloo",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim koristiti Leeloo."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim koristiti Leeloo."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li promijeniti pakete kartica na Leeloo?"
+            }
+        ]
+    },
+    {
+        "slug": "texting",
+        "title": "Dopisivanje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim slanje poruka."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim slati SMS."
+            }
+        ]
+    },
+    {
+        "slug": "knitting",
+        "title": "Pletenje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim pletenje."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim pletenje."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim naučiti plesti."
+            }
+        ]
+    },
+    {
+        "slug": "bowling",
+        "title": "Kuglanje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim kuglanje."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim kuglanje."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li igrati kuglanje sa mnom?"
+            }
+        ]
+    },
+    {
+        "slug": "watching-tv",
+        "title": "Gledajući TV",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim gledati TV."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim gledati TV."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li gledati TV?"
+            }
+        ]
+    },
+    {
+        "slug": "fishing",
+        "title": "Ribarstvo",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim ribolov."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim ribolov."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li ići na ribolov?"
+            }
+        ]
+    },
+    {
+        "slug": "exercising",
+        "title": "Vježbanje",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim vježbati."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim vježbati."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li vježbati sa mnom?"
+            }
+        ]
+    },
+    {
+        "slug": "tennis",
+        "title": "Tenis",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim igrati tenis."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim igrati tenis."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želite li igrati tenis sa mnom?"
+            }
+        ]
+    }
+]

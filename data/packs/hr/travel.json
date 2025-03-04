@@ -1,0 +1,102 @@
+[
+    {
+        "slug": "luggage",
+        "title": "Prtljaga",
+        "phrases": []
+    },
+    {
+        "slug": "swimming",
+        "title": "Plivanje",
+        "phrases": []
+    },
+    {
+        "slug": "passport",
+        "title": "Putovnica",
+        "phrases": []
+    },
+    {
+        "slug": "tent",
+        "title": "Šator",
+        "phrases": []
+    },
+    {
+        "slug": "backpacking",
+        "title": "Ruksak",
+        "phrases": []
+    },
+    {
+        "slug": "beach-chair",
+        "title": "Stolica na plaži",
+        "phrases": []
+    },
+    {
+        "slug": "room-service",
+        "title": "Posluga u sobu",
+        "phrases": []
+    },
+    {
+        "slug": "waiting-area",
+        "title": "Čekaonica",
+        "phrases": []
+    },
+    {
+        "slug": "electric-socket",
+        "title": "Električna utičnica",
+        "phrases": []
+    },
+    {
+        "slug": "bag",
+        "title": "Torba",
+        "phrases": []
+    },
+    {
+        "slug": "boarding-pass",
+        "title": "Ukrcajna propusnica",
+        "phrases": []
+    },
+    {
+        "slug": "gps",
+        "title": "GPS",
+        "phrases": []
+    },
+    {
+        "slug": "mountain",
+        "title": "Planina",
+        "phrases": []
+    },
+    {
+        "slug": "camera",
+        "title": "Fotoaparat",
+        "phrases": []
+    },
+    {
+        "slug": "hotel",
+        "title": "Hotel",
+        "phrases": []
+    },
+    {
+        "slug": "bed",
+        "title": "Krevet",
+        "phrases": []
+    },
+    {
+        "slug": "hotel-key",
+        "title": "Hotelski ključ",
+        "phrases": []
+    },
+    {
+        "slug": "bonfire",
+        "title": "Lomača",
+        "phrases": []
+    },
+    {
+        "slug": "snorkling",
+        "title": "Ronjenje",
+        "phrases": []
+    },
+    {
+        "slug": "action-camera",
+        "title": "Akcijska kamera",
+        "phrases": []
+    }
+]

@@ -1,0 +1,254 @@
+[
+    {
+        "slug": "coffee",
+        "title": "Kava",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim piti kavu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti kavu."
+            }
+        ]
+    },
+    {
+        "slug": "water",
+        "title": "Voda",
+        "phrases": [
+            {
+                "type": "☝️",
+                "phrase": "Moram piti vodu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti vodu."
+            }
+        ]
+    },
+    {
+        "slug": "juice",
+        "title": "Sok",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim piti sok."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti sok."
+            }
+        ]
+    },
+    {
+        "slug": "tea",
+        "title": "Čaj",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim piti čaj."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti čaj."
+            }
+        ]
+    },
+    {
+        "slug": "grape-juice",
+        "title": "Sok od grejpa",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim piti sok od grožđa."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti sok od grožđa."
+            }
+        ]
+    },
+    {
+        "slug": "milk",
+        "title": "Mlijeko",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim piti mlijeko."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti mlijeko."
+            }
+        ]
+    },
+    {
+        "slug": "milkshake",
+        "title": "Milkshake",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim piti mliječni kolač."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti milkshake."
+            }
+        ]
+    },
+    {
+        "slug": "orange-juice",
+        "title": "sok od naranče",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim piti sok od naranče."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti sok od naranče."
+            }
+        ]
+    },
+    {
+        "slug": "apple-juice",
+        "title": "sok od jabuke",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim piti sok od jabuke."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti sok od jabuke."
+            }
+        ]
+    },
+    {
+        "slug": "pineapple-juice",
+        "title": "Sok od ananasa",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim piti sok od ananasa."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti sok od ananasa."
+            }
+        ]
+    },
+    {
+        "slug": "lemonade",
+        "title": "Limunada",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim piti limunadu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti limunadu."
+            }
+        ]
+    },
+    {
+        "slug": "coke",
+        "title": "Koks",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim piti koks."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti koks."
+            }
+        ]
+    },
+    {
+        "slug": "soda",
+        "title": "Soda",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim piti soda."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti soda."
+            }
+        ]
+    },
+    {
+        "slug": "frappe",
+        "title": "Frappe",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim piti Frappe."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti Frappe."
+            }
+        ]
+    },
+    {
+        "slug": "smoothie",
+        "title": "Smoothie",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim piti smoothie."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti smoothie."
+            }
+        ]
+    },
+    {
+        "slug": "iced-tea",
+        "title": "Ledeni čaj",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim piti ledeni čaj."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti ledeni čaj."
+            }
+        ]
+    },
+    {
+        "slug": "hot-chocolate",
+        "title": "Vruća čokolada",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim piti vruću čokoladu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti vruću čokoladu."
+            }
+        ]
+    },
+    {
+        "slug": "mineral-water",
+        "title": "Mineralna voda",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim piti mineralnu vodu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim piti mineralnu vodu."
+            }
+        ]
+    }
+]

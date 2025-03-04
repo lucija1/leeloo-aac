@@ -1,0 +1,326 @@
+[
+    {
+        "slug": "chips",
+        "title": "Čips",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti čips."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti čips."
+            },
+            {
+                "type": "🤢",
+                "phrase": "Jedenje previše čipsa je za mene loše."
+            }
+        ]
+    },
+    {
+        "slug": "donut",
+        "title": "Krafna",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti krafnu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti krafnu."
+            },
+            {
+                "type": "🤢",
+                "phrase": "Jedenje previše krafne je za mene loše."
+            }
+        ]
+    },
+    {
+        "slug": "taco",
+        "title": "Taco",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti tacos."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti taco."
+            },
+            {
+                "type": "🤢",
+                "phrase": "Jedenje previše tacosa je za mene loše."
+            }
+        ]
+    },
+    {
+        "slug": "peanuts",
+        "title": "Kikiriki",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti kikiriki."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti kikiriki."
+            },
+            {
+                "type": "🤢",
+                "phrase": "Jedenje previše kikirikija je za mene loše."
+            }
+        ]
+    },
+    {
+        "slug": "croissant",
+        "title": "Kroasan",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti krosan."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti krosan."
+            },
+            {
+                "type": "🤢",
+                "phrase": "Jedenje previše kroasana je za mene loše."
+            }
+        ]
+    },
+    {
+        "slug": "cookie",
+        "title": "Kolačić",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti kolačić."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti kolačić."
+            },
+            {
+                "type": "🤢",
+                "phrase": "Jedenje previše kolačića je za mene loše."
+            }
+        ]
+    },
+    {
+        "slug": "burrito",
+        "title": "Burrito",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti burrito."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti burrito."
+            },
+            {
+                "type": "🤢",
+                "phrase": "Jesti previše burritosa je za mene loše."
+            }
+        ]
+    },
+    {
+        "slug": "ramen",
+        "title": "Ramen",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti ramen."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti ramen."
+            },
+            {
+                "type": "🤢",
+                "phrase": "Jedenje previše ramena je za mene loše."
+            }
+        ]
+    },
+    {
+        "slug": "sushi",
+        "title": "Suši",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti sushi."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti sushi."
+            },
+            {
+                "type": "🤢",
+                "phrase": "Jedenje previše sushija je za mene."
+            }
+        ]
+    },
+    {
+        "slug": "chocolate",
+        "title": "Čokolada",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti čokoladu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti čokoladu."
+            },
+            {
+                "type": "🤢",
+                "phrase": "Jedenje previše čokolade je za mene loše."
+            }
+        ]
+    },
+    {
+        "slug": "apple-pie",
+        "title": "pita od jabuka",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti pita od jabuka."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti pita od jabuka."
+            },
+            {
+                "type": "🤢",
+                "phrase": "Jedenje previše pite od jabuka je za mene loše."
+            }
+        ]
+    },
+    {
+        "slug": "muffin",
+        "title": "Kolač",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti muffin."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti muffin."
+            },
+            {
+                "type": "🤢",
+                "phrase": "Jesti previše muffina je za mene loše."
+            }
+        ]
+    },
+    {
+        "slug": "pudding",
+        "title": "Puding",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti puding."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti puding."
+            },
+            {
+                "type": "🤢",
+                "phrase": "Jedenje previše pudinga je za mene loše."
+            }
+        ]
+    },
+    {
+        "slug": "macaron",
+        "title": "Makaron",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti makaron."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti makaron."
+            },
+            {
+                "type": "🤢",
+                "phrase": "Jedenje previše makarona je za mene loš."
+            }
+        ]
+    },
+    {
+        "slug": "crepe",
+        "title": "Krep",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti krep."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti krep."
+            },
+            {
+                "type": "🤢",
+                "phrase": "Jedenje previše palača je za mene loše."
+            }
+        ]
+    },
+    {
+        "slug": "pizza",
+        "title": "Pizza",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti pizzu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti pizzu."
+            },
+            {
+                "type": "🤢",
+                "phrase": "Jedenje previše pizze je za mene loše."
+            }
+        ]
+    },
+    {
+        "slug": "skewer",
+        "title": "Ražanj",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti skewer."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti skewer."
+            },
+            {
+                "type": "🤢",
+                "phrase": "Jedenje previše nagiba je za mene loše."
+            }
+        ]
+    },
+    {
+        "slug": "fast-food",
+        "title": "Brza hrana",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim jesti brzu hranu."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim jesti brzu hranu."
+            },
+            {
+                "type": "🤢",
+                "phrase": "Jedenje previše brze hrane je za mene loše."
+            }
+        ]
+    }
+]

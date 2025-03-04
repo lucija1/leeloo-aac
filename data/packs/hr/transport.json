@@ -1,0 +1,306 @@
+[
+    {
+        "slug": "train",
+        "title": "Vlak",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim krenuti vlakom."
+            },
+            {
+                "type": "❤️",
+                "phrase": "Volim vlakove."
+            }
+        ]
+    },
+    {
+        "slug": "car",
+        "title": "Automobil",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim voziti automobil."
+            },
+            {
+                "type": "❤️",
+                "phrase": "Volim automobile."
+            }
+        ]
+    },
+    {
+        "slug": "bicycle",
+        "title": "Bicikl",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim voziti bicikl."
+            },
+            {
+                "type": "❤️",
+                "phrase": "Volim bicikl."
+            }
+        ]
+    },
+    {
+        "slug": "motorcycle",
+        "title": "Motocikl",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim voziti motocikl."
+            },
+            {
+                "type": "❤️",
+                "phrase": "Volim motocikl."
+            }
+        ]
+    },
+    {
+        "slug": "skateboard",
+        "title": "Skejtbord",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim klizati."
+            },
+            {
+                "type": "❤️",
+                "phrase": "Volim skejtbord."
+            }
+        ]
+    },
+    {
+        "slug": "food-truck",
+        "title": "Trajekt",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim uzeti trajekt."
+            },
+            {
+                "type": "🧑‍🤝‍🧑",
+                "phrase": "Trajekt je prepun."
+            }
+        ]
+    },
+    {
+        "slug": "boat",
+        "title": "Čamac",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim voziti čamac."
+            },
+            {
+                "type": "🧑‍🤝‍🧑",
+                "phrase": "Brod je prepun."
+            }
+        ]
+    },
+    {
+        "slug": "ship",
+        "title": "Brod",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim se ukrcati na brod."
+            },
+            {
+                "type": "🧑‍🤝‍🧑",
+                "phrase": "Brod je prepun."
+            }
+        ]
+    },
+    {
+        "slug": "bus",
+        "title": "Autobus",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim uzeti autobus."
+            },
+            {
+                "type": "🧑‍🤝‍🧑",
+                "phrase": "Autobus je prepun."
+            }
+        ]
+    },
+    {
+        "slug": "minibus",
+        "title": "Minibus",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim uzeti minibus."
+            },
+            {
+                "type": "🧑‍🤝‍🧑",
+                "phrase": "Minibus je prepun."
+            }
+        ]
+    },
+    {
+        "slug": "wheelchair",
+        "title": "Invalidska kolica",
+        "phrases": [
+            {
+                "type": "♿",
+                "phrase": "Koristim invalidska kolica."
+            },
+            {
+                "type": "👨‍🦽",
+                "phrase": "Koristi invalidska kolica."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da koristim invalidska kolica."
+            },
+            {
+                "type": "🖐️",
+                "phrase": "Možete li me gurnuti?"
+            }
+        ]
+    },
+    {
+        "slug": "taxi",
+        "title": "Taksi",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim uzeti taksi."
+            }
+        ]
+    },
+    {
+        "slug": "airplane",
+        "title": "Zrakoplov",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim letjeti u avionu."
+            },
+            {
+                "type": "❤️",
+                "phrase": "Volim avioni."
+            },
+            {
+                "type": "🧑‍🤝‍🧑",
+                "phrase": "Zrakoplov je prepun."
+            }
+        ]
+    },
+    {
+        "slug": "van",
+        "title": "Kombi",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim voziti u kombiju."
+            }
+        ]
+    },
+    {
+        "slug": "hot-air-balloon",
+        "title": "Balon na vrući zrak",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim letjeti na balonu s vrućim zrakom."
+            },
+            {
+                "type": "❤️",
+                "phrase": "Volim balon s vrućim zrakom."
+            }
+        ]
+    },
+    {
+        "slug": "fire-truck",
+        "title": "Vatrogasni kamion",
+        "phrases": [
+            {
+                "type": "🚨",
+                "phrase": "Sirena vatrogasnih vozila."
+            }
+        ]
+    },
+    {
+        "slug": "police-car",
+        "title": "Policijski auto",
+        "phrases": [
+            {
+                "type": "🚨",
+                "phrase": "Sirena policijskog automobila."
+            },
+            {
+                "type": "❤️",
+                "phrase": "Volim policijske automobile."
+            }
+        ]
+    },
+    {
+        "slug": "ambulance",
+        "title": "Hitna pomoć",
+        "phrases": [
+            {
+                "type": "🚨",
+                "phrase": "Sirena hitne pomoći."
+            }
+        ]
+    },
+    {
+        "slug": "stretcher",
+        "title": "Nosila",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći s nosačima?"
+            }
+        ]
+    },
+    {
+        "slug": "helicopter",
+        "title": "Helikopter",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim letjeti helikopterom."
+            }
+        ]
+    },
+    {
+        "slug": "trailer",
+        "title": "Prikolica",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Želim voziti u prikolici."
+            }
+        ]
+    },
+    {
+        "slug": "spaceship",
+        "title": "Svemirski brod",
+        "phrases": [
+            {
+                "type": "❤️",
+                "phrase": "Volim svemirske brodove."
+            },
+            {
+                "type": "🌌",
+                "phrase": "Želim putovati u svemir."
+            },
+            {
+                "type": "👽",
+                "phrase": "Želim vidjeti vanzemaljce."
+            },
+            {
+                "type": "👩‍🚀",
+                "phrase": "Želim ići na Mars."
+            },
+            {
+                "type": "🚀",
+                "phrase": "Možete li me odvesti na Mars Elon Musk?"
+            }
+        ]
+    }
+]

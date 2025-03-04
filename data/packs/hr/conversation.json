@@ -1,0 +1,546 @@
+[
+    {
+        "slug": "me",
+        "title": "Mi",
+        "phrases": [
+            {
+                "type": "☝️",
+                "phrase": "Moje ime je {name}"
+            },
+            {
+                "type": "🤗",
+                "phrase": "Ja sam {ime}"
+            },
+            {
+                "type": "❓",
+                "phrase": "Znaš li moje ime?"
+            },
+            {
+                "type": "❓",
+                "phrase": "Kako se zoveš?"
+            },
+            {
+                "type": "🤝",
+                "phrase": "Drago mi je!"
+            },
+            {
+                "type": "❓",
+                "phrase": "Da li ti se sviđam?"
+            },
+            {
+                "type": "👯",
+                "phrase": "Možemo li biti prijatelji?"
+            },
+            {
+                "type": "📲",
+                "phrase": "Koristim pomoćnu aplikaciju za komunikaciju."
+            },
+            {
+                "type": "❓",
+                "phrase": "Tko si ti?"
+            }
+        ]
+    },
+    {
+        "slug": "hello",
+        "title": "zdravo",
+        "phrases": [
+            {
+                "type": "👋",
+                "phrase": "Zdravo."
+            },
+            {
+                "type": "👋",
+                "phrase": "Bok."
+            },
+            {
+                "type": "👋",
+                "phrase": "Pozdrav."
+            },
+            {
+                "type": "❓",
+                "phrase": "Kako si?"
+            },
+            {
+                "type": "🤝",
+                "phrase": "Drago mi je!"
+            }
+        ]
+    },
+    {
+        "slug": "help",
+        "title": "Pomozite",
+        "phrases": [
+            {
+                "type": "🙄",
+                "phrase": "Pomozi mi."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možeš li mi pomoći?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "trebam pomoć"
+            },
+            {
+                "type": "💁",
+                "phrase": "Trebaš li pomoć?"
+            }
+        ]
+    },
+    {
+        "slug": "yes",
+        "title": "Da",
+        "phrases": [
+            {
+                "type": "✔️",
+                "phrase": "Da."
+            },
+            {
+                "type": "🙏🏼",
+                "phrase": "Da molim."
+            },
+            {
+                "type": "👌",
+                "phrase": "U redu."
+            },
+            {
+                "type": "🤝",
+                "phrase": "Dogovoren."
+            },
+            {
+                "type": "🙆",
+                "phrase": "Želim."
+            },
+            {
+                "type": "🙆‍♂️",
+                "phrase": "Htio bih."
+            }
+        ]
+    },
+    {
+        "slug": "no",
+        "title": "Ne",
+        "phrases": [
+            {
+                "type": "❌",
+                "phrase": "Ne."
+            },
+            {
+                "type": "🚫",
+                "phrase": "Ne."
+            },
+            {
+                "type": "⛔",
+                "phrase": "Nikada."
+            },
+            {
+                "type": "🙅‍♂️",
+                "phrase": "Ne želim."
+            },
+            {
+                "type": "🙅‍♀️",
+                "phrase": "Ne sviđa mi se."
+            },
+            {
+                "type": "❓",
+                "phrase": "Ne sviđa vam se?"
+            },
+            {
+                "type": "❓",
+                "phrase": "Zašto ti se ne sviđa?"
+            }
+        ]
+    },
+    {
+        "slug": "toilet",
+        "title": "WC",
+        "phrases": [
+            {
+                "type": "🚽",
+                "phrase": "Moram ići na toalet."
+            },
+            {
+                "type": "🚻",
+                "phrase": "Trebam piškiti."
+            },
+            {
+                "type": "💩",
+                "phrase": "Moram ici na veliku nuždu."
+            },
+            {
+                "type": "🚽",
+                "phrase": "Možete li mi pomoći da odem na toalet?"
+            },
+            {
+                "type": "🧼",
+                "phrase": "Možete li mi pomoći da očistim?"
+            },
+            {
+                "type": "🚾",
+                "phrase": "Perio sam se."
+            },
+            {
+                "type": "🧻",
+                "phrase": "Poopsio sam se."
+            }
+        ]
+    },
+    {
+        "slug": "what",
+        "title": "Što",
+        "phrases": [
+            {
+                "type": "❓",
+                "phrase": "Što je to?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Što to znači?"
+            },
+            {
+                "type": "🤔",
+                "phrase": "Što misliš?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Možete li to objasniti?"
+            },
+            {
+                "type": "🔁",
+                "phrase": "Možete li ponoviti ono što ste rekli?"
+            },
+            {
+                "type": "😕",
+                "phrase": "Ne razumijem."
+            }
+        ]
+    },
+    {
+        "slug": "sleep",
+        "title": "Spavati",
+        "phrases": [
+            {
+                "type": "💤",
+                "phrase": "Želim spavati."
+            },
+            {
+                "type": "🙅‍♂️",
+                "phrase": "Ne želim spavati."
+            },
+            {
+                "type": "😴",
+                "phrase": "Umoran sam."
+            },
+            {
+                "type": "❓",
+                "phrase": "Jesi li umoran?"
+            },
+            {
+                "type": "⏰",
+                "phrase": "Kad ću spavati?"
+            },
+            {
+                "type": "🧸",
+                "phrase": "Želim se naspavati."
+            }
+        ]
+    },
+    {
+        "slug": "bath",
+        "title": "Kupka",
+        "phrases": [
+            {
+                "type": "🛀",
+                "phrase": "Želim se okupati."
+            },
+            {
+                "type": "💘",
+                "phrase": "Volim se okupati."
+            },
+            {
+                "type": "🧼",
+                "phrase": "Želim oprati ruke."
+            },
+            {
+                "type": "🚿",
+                "phrase": "Želim se istuširati."
+            },
+            {
+                "type": "🧽",
+                "phrase": "Želim se očistiti."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Možete li mi pomoći da se okupam?"
+            },
+            {
+                "type": "🙅‍♂️",
+                "phrase": "Ne želim se okupati."
+            }
+        ]
+    },
+    {
+        "slug": "listen",
+        "title": "Slušati",
+        "phrases": [
+            {
+                "type": "👂",
+                "phrase": "Slušaj me."
+            },
+            {
+                "type": "🎧",
+                "phrase": "Možete li me slušati?"
+            },
+            {
+                "type": "🎵",
+                "phrase": "Slušati glazbu."
+            },
+            {
+                "type": "👪",
+                "phrase": "Slušajući moje roditelje."
+            },
+            {
+                "type": "🔊",
+                "phrase": "Slušajte što moja prijava govori!"
+            }
+        ]
+    },
+    {
+        "slug": "morning",
+        "title": "Jutro",
+        "phrases": [
+            {
+                "type": "🌅",
+                "phrase": "Dobro jutro."
+            },
+            {
+                "type": "💘",
+                "phrase": "Volim jutra."
+            },
+            {
+                "type": "🌞",
+                "phrase": "Ujutro."
+            },
+            {
+                "type": "⏰",
+                "phrase": "Jutarnje vrijeme."
+            },
+            {
+                "type": "⛅",
+                "phrase": "Je li jutro?"
+            }
+        ]
+    },
+    {
+        "slug": "night",
+        "title": "Noć",
+        "phrases": [
+            {
+                "type": "🌃",
+                "phrase": "Laku noć!"
+            },
+            {
+                "type": "💘",
+                "phrase": "Volim noći."
+            },
+            {
+                "type": "🌒",
+                "phrase": "Noću."
+            },
+            {
+                "type": "⏰",
+                "phrase": "Noćno vrijeme."
+            },
+            {
+                "type": "🌑",
+                "phrase": "Je li noć?"
+            }
+        ]
+    },
+    {
+        "slug": "look",
+        "title": "Izgled",
+        "phrases": [
+            {
+                "type": "👀",
+                "phrase": "Pogledaj me."
+            },
+            {
+                "type": "👉",
+                "phrase": "Pogledaj ovo."
+            },
+            {
+                "type": "❓",
+                "phrase": "Gledate li?"
+            },
+            {
+                "type": "🖼️",
+                "phrase": "Pogledajte moj crtež."
+            },
+            {
+                "type": "🧍",
+                "phrase": "Kako izgledam?"
+            },
+            {
+                "type": "⭐",
+                "phrase": "Pogledajte što sam učinio."
+            },
+            {
+                "type": "🧑‍🤝‍🧑",
+                "phrase": "Pogledajmo to."
+            }
+        ]
+    },
+    {
+        "slug": "speak",
+        "title": "Govoriti",
+        "phrases": [
+            {
+                "type": "🗣️",
+                "phrase": "Učim kako govoriti."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim govoriti."
+            },
+            {
+                "type": "❓",
+                "phrase": "Mogu li razgovarati s vama?"
+            },
+            {
+                "type": "💗",
+                "phrase": "Volim govoriti."
+            },
+            {
+                "type": "📳",
+                "phrase": "Koristim pomoćnu aplikaciju za komunikaciju."
+            }
+        ]
+    },
+    {
+        "slug": "play",
+        "title": "igra",
+        "phrases": [
+            {
+                "type": "💘",
+                "phrase": "Volim igrati."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li se igrati sa mnom?"
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim se igrati s tobom!"
+            },
+            {
+                "type": "🧑‍🤝‍🧑",
+                "phrase": "Želim se igrati sa svojim prijateljima."
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne želim se igrati s tobom."
+            }
+        ]
+    },
+    {
+        "slug": "outside",
+        "title": "Vanjski",
+        "phrases": [
+            {
+                "type": "💘",
+                "phrase": "Volim izlaziti vani."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim izaći vani."
+            },
+            {
+                "type": "🥶",
+                "phrase": "Je li vani hladno?"
+            },
+            {
+                "type": "❌",
+                "phrase": "Ne volim vani."
+            },
+            {
+                "type": "⛺",
+                "phrase": "Mogu li izaći vani?"
+            }
+        ]
+    },
+    {
+        "slug": "home",
+        "title": "Dom",
+        "phrases": [
+            {
+                "type": "💘",
+                "phrase": "Volim svoj dom."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Želim ići kući."
+            },
+            {
+                "type": "🏡",
+                "phrase": "Gdje je tvoj dom?"
+            },
+            {
+                "type": "💞",
+                "phrase": "Dome slatki dome."
+            },
+            {
+                "type": "🏡",
+                "phrase": "U kući sam."
+            },
+            {
+                "type": "⚠️",
+                "phrase": "Nisam u kući."
+            }
+        ]
+    },
+    {
+        "slug": "hurt",
+        "title": "Povrijediti",
+        "phrases": [
+            {
+                "type": "🙋",
+                "phrase": "Povrijeđen sam."
+            },
+            {
+                "type": "❓",
+                "phrase": "Jesi li ozljeđen?"
+            },
+            {
+                "type": "❓",
+                "phrase": "Jesam li te povrijedio?"
+            },
+            {
+                "type": "😔",
+                "phrase": "Nisam te htio povrijediti!"
+            },
+            {
+                "type": "💉",
+                "phrase": "Hoće li ozlijediti?"
+            },
+            {
+                "type": "🤕",
+                "phrase": "Imam glavobolju."
+            },
+            {
+                "type": "😞",
+                "phrase": "Imam bolove u trbuhu."
+            },
+            {
+                "type": "🧎",
+                "phrase": "Boli me genitalije."
+            },
+            {
+                "type": "🦶",
+                "phrase": "Moje stopalo boli."
+            }
+        ]
+    }
+]

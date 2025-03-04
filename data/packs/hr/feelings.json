@@ -1,0 +1,448 @@
+[
+    {
+        "slug": "happy",
+        "title": "Sretan",
+        "phrases": [
+            {
+                "type": "🖐️",
+                "phrase": "Sretan sam."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Osjećam se sretnim."
+            },
+            {
+                "type": "❓",
+                "phrase": "Osjećate li se sretno?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Želim se osjećati sretno."
+            },
+            {
+                "type": "🎈",
+                "phrase": "Usrećujete me."
+            }
+        ]
+    },
+    {
+        "slug": "sad",
+        "title": "Tužan",
+        "phrases": [
+            {
+                "type": "🖐️",
+                "phrase": "Tužan sam."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Osjećam se tužno."
+            },
+            {
+                "type": "❓",
+                "phrase": "Osjećate li se tužno?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Ne želim se osjećati tužno."
+            },
+            {
+                "type": "😠",
+                "phrase": "Rastužite me."
+            }
+        ]
+    },
+    {
+        "slug": "exhausted",
+        "title": "Iscrpljen",
+        "phrases": [
+            {
+                "type": "🖐️",
+                "phrase": "Ja sam iscrpljena."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Osjećam se iscrpljeno."
+            },
+            {
+                "type": "❓",
+                "phrase": "Osjećate li se iscrpljeno?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Ne želim biti iscrpljen."
+            }
+        ]
+    },
+    {
+        "slug": "relaxed",
+        "title": "Opušten",
+        "phrases": [
+            {
+                "type": "🖐️",
+                "phrase": "Opušten sam."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Osjećam se opušteno."
+            },
+            {
+                "type": "❓",
+                "phrase": "Osjećate li se opušteno?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Želim se osjećati opušteno."
+            }
+        ]
+    },
+    {
+        "slug": "in-love",
+        "title": "Zaljubljen",
+        "phrases": [
+            {
+                "type": "🖐️",
+                "phrase": "Zaljubljen sam."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Osjećam se u ljubavi."
+            },
+            {
+                "type": "❓",
+                "phrase": "Jesi li zaljubljen?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Želim se zaljubiti."
+            },
+            {
+                "type": "👉",
+                "phrase": "Voliš li me?"
+            }
+        ]
+    },
+    {
+        "slug": "stressed",
+        "title": "Pod stresom",
+        "phrases": [
+            {
+                "type": "🖐️",
+                "phrase": "Pod stresom sam."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Osjećam se stresno."
+            },
+            {
+                "type": "❓",
+                "phrase": "Osjećate li se stresno?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Ne želim se osjećati stresno."
+            }
+        ]
+    },
+    {
+        "slug": "thankful",
+        "title": "Zahvalan",
+        "phrases": [
+            {
+                "type": "🖐️",
+                "phrase": "Zahvalan sam."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Osjećam se zahvalno."
+            },
+            {
+                "type": "❓",
+                "phrase": "Osjećate li se zahvalno?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Želim se osjećati zahvalno."
+            }
+        ]
+    },
+    {
+        "slug": "confused",
+        "title": "Zbunjen",
+        "phrases": [
+            {
+                "type": "🖐️",
+                "phrase": "Zbunjen sam."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Osjećam se zbunjeno."
+            },
+            {
+                "type": "❓",
+                "phrase": "Osjećate li se zbunjeno?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Zbunjuješ me."
+            }
+        ]
+    },
+    {
+        "slug": "joyful",
+        "title": "Radostan",
+        "phrases": [
+            {
+                "type": "🖐️",
+                "phrase": "Radostan sam."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Osjećam se radosno."
+            },
+            {
+                "type": "❓",
+                "phrase": "Osjećate li se radosno?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Želim se osjećati radosno."
+            }
+        ]
+    },
+    {
+        "slug": "angry",
+        "title": "Ljut",
+        "phrases": [
+            {
+                "type": "🖐️",
+                "phrase": "Ja sam ljuta."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Osjećam se ljuto."
+            },
+            {
+                "type": "❓",
+                "phrase": "Osjećate li se ljutito?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Ljut sam na tebe."
+            },
+            {
+                "type": "😠",
+                "phrase": "Razumiješ me."
+            }
+        ]
+    },
+    {
+        "slug": "smart",
+        "title": "Pametan",
+        "phrases": [
+            {
+                "type": "🖐️",
+                "phrase": "Ja sam pametan."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Osjećam se pametno."
+            },
+            {
+                "type": "❓",
+                "phrase": "Osjećate li se pametno?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Jesam li pametan?"
+            },
+            {
+                "type": "👉",
+                "phrase": "Pametan si!"
+            }
+        ]
+    },
+    {
+        "slug": "afraid",
+        "title": "Uplašen",
+        "phrases": [
+            {
+                "type": "🖐️",
+                "phrase": "Bojim se."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Osjećam se strah."
+            },
+            {
+                "type": "❓",
+                "phrase": "Osjećate li se strah?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Ne želim se uplašiti."
+            },
+            {
+                "type": "😠",
+                "phrase": "Plašiš me."
+            }
+        ]
+    },
+    {
+        "slug": "ashamed",
+        "title": "Sramotan",
+        "phrases": [
+            {
+                "type": "🖐️",
+                "phrase": "Sramim se."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Osjecam se posramljeno."
+            },
+            {
+                "type": "❓",
+                "phrase": "Osjećate li se sram?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Ne želim se sramiti."
+            }
+        ]
+    },
+    {
+        "slug": "shocked",
+        "title": "Šokiran",
+        "phrases": [
+            {
+                "type": "🖐️",
+                "phrase": "Šokiran sam."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Osjećam se šokirano."
+            },
+            {
+                "type": "❓",
+                "phrase": "Osjećate li se šokirano?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Šokirao si me."
+            }
+        ]
+    },
+    {
+        "slug": "sick",
+        "title": "Bolestan",
+        "phrases": [
+            {
+                "type": "🖐️",
+                "phrase": "Bolestan sam."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Osjećam se bolesno."
+            },
+            {
+                "type": "❓",
+                "phrase": "Osjećate li mučninu?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Ne želim biti bolestan."
+            },
+            {
+                "type": "🤢",
+                "phrase": "Muka mi je od hrane."
+            }
+        ]
+    },
+    {
+        "slug": "frustrated",
+        "title": "Frustriran",
+        "phrases": [
+            {
+                "type": "🖐️",
+                "phrase": "Frustriran sam."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Osjećam se frustrirano."
+            },
+            {
+                "type": "❓",
+                "phrase": "Osjećate li se frustrirano?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Ne želim se osjećati frustrirano."
+            }
+        ]
+    },
+    {
+        "slug": "excited",
+        "title": "Uzbuđen",
+        "phrases": [
+            {
+                "type": "🖐️",
+                "phrase": "Uzbuđen sam."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Osjećam se uzbuđeno."
+            },
+            {
+                "type": "❓",
+                "phrase": "Osjećate li se uzbuđeno?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Ne želim se osjećati uzbuđeno."
+            }
+        ]
+    },
+    {
+        "slug": "nauseated",
+        "title": "Mučan",
+        "phrases": [
+            {
+                "type": "🖐️",
+                "phrase": "Mučni sam."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Osjećam se mučno."
+            },
+            {
+                "type": "❓",
+                "phrase": "Osjećate li se mučno?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Ne želim se osjećati mučno."
+            }
+        ]
+    },
+    {
+        "slug": "agitated",
+        "title": "Uzrujan",
+        "phrases": [
+            {
+                "type": "🖐️",
+                "phrase": "Uznemiren sam."
+            },
+            {
+                "type": "🙋",
+                "phrase": "Osjećam se uznemireno."
+            },
+            {
+                "type": "❓",
+                "phrase": "Osjećate li se uznemireno?"
+            },
+            {
+                "type": "☝️",
+                "phrase": "Ne želim se osjećati uznemireno."
+            }
+        ]
+    }
+]

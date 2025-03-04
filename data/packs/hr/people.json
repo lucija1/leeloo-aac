@@ -1,0 +1,548 @@
+[
+    {
+        "slug": "mother",
+        "title": "Majka",
+        "phrases": [
+            {
+                "type": "⁉️",
+                "phrase": "Mamica!"
+            },
+            {
+                "type": "💘",
+                "phrase": "Volim svoju majku."
+            },
+            {
+                "type": "❤️",
+                "phrase": "Volim te mama."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaje mi mama."
+            },
+            {
+                "type": "🙏🏼",
+                "phrase": "Hvala vam što ste se brinuli za mene."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "Ona je moja mama."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li mi pomoći da pronađem majku?"
+            }
+        ]
+    },
+    {
+        "slug": "father",
+        "title": "Otac",
+        "phrases": [
+            {
+                "type": "⁉️",
+                "phrase": "Tata!"
+            },
+            {
+                "type": "💘",
+                "phrase": "Volim svoga oca."
+            },
+            {
+                "type": "❤️",
+                "phrase": "Volim te tata."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaje mi tata."
+            },
+            {
+                "type": "🙏🏼",
+                "phrase": "Hvala vam što ste se brinuli za mene."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "On je moj otac."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li mi pomoći da pronađem svog oca?"
+            }
+        ]
+    },
+    {
+        "slug": "parents",
+        "title": "Roditelji",
+        "phrases": [
+            {
+                "type": "💑",
+                "phrase": "Volim svoje roditelje."
+            },
+            {
+                "type": "💘",
+                "phrase": "Volim svoje roditelje."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaju mi ​​roditelji."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "Oni su moji roditelji."
+            },
+            {
+                "type": "👨‍👩‍👧",
+                "phrase": "Moji se roditelji brinu o meni."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li mi pomoći da pronađem svoje roditelje?"
+            }
+        ]
+    },
+    {
+        "slug": "grandparents",
+        "title": "Djed i baka",
+        "phrases": [
+            {
+                "type": "💑",
+                "phrase": "Volim svoje bake i djedove."
+            },
+            {
+                "type": "💘",
+                "phrase": "Volim te bake i djedove."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaju mi ​​bake i djed."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "Oni su moji baka i djed."
+            },
+            {
+                "type": "👨‍👩‍👧",
+                "phrase": "Moji djedovi i bake brinu se o meni."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li mi pomoći da pronađem svoje bake i djedove?"
+            }
+        ]
+    },
+    {
+        "slug": "brother",
+        "title": "Brat",
+        "phrases": [
+            {
+                "type": "💑",
+                "phrase": "Volim svog brata."
+            },
+            {
+                "type": "💘",
+                "phrase": "Volim te brate."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaje mi moj brat."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "On je moj brat."
+            },
+            {
+                "type": "🙎‍♂️",
+                "phrase": "Moj brat se brine za mene."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li mi pomoći da pronađem brata?"
+            }
+        ]
+    },
+    {
+        "slug": "sister",
+        "title": "Sestra",
+        "phrases": [
+            {
+                "type": "💑",
+                "phrase": "Volim svoju sestru."
+            },
+            {
+                "type": "💘",
+                "phrase": "Ja volim tvoju sestru."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaje mi sestra."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "Ona je moja sestra."
+            },
+            {
+                "type": "🙍‍♀️",
+                "phrase": "Moja sestra se brine za mene."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li mi pomoći da pronađem svoju sestru?"
+            }
+        ]
+    },
+    {
+        "slug": "uncle",
+        "title": "Ujak",
+        "phrases": [
+            {
+                "type": "💑",
+                "phrase": "Volim svog ujaka."
+            },
+            {
+                "type": "💘",
+                "phrase": "Volim te ujače."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaje mi moj ujak."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "On je moj ujak."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li mi pomoći da pronađem svog ujaka?"
+            }
+        ]
+    },
+    {
+        "slug": "aunt",
+        "title": "Tetka",
+        "phrases": [
+            {
+                "type": "💑",
+                "phrase": "Volim svoju tetku."
+            },
+            {
+                "type": "💘",
+                "phrase": "Volim te tetka."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaje mi moja tetka."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "Ona je moja tetka."
+            },
+            {
+                "type": "❓",
+                "phrase": "Možete li mi pomoći da pronađem svoju tetku?"
+            }
+        ]
+    },
+    {
+        "slug": "teacher",
+        "title": "Učitelj, nastavnik, profesor",
+        "phrases": [
+            {
+                "type": "💑",
+                "phrase": "Volim svog učitelja."
+            },
+            {
+                "type": "💘",
+                "phrase": "Volim te učitelju."
+            },
+            {
+                "type": "💔",
+                "phrase": "Ne volim svog učitelja."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaje mi učitelj."
+            },
+            {
+                "type": "🙏🏼",
+                "phrase": "Hvala na lekciji."
+            }
+        ]
+    },
+    {
+        "slug": "therapist",
+        "title": "Terapeut",
+        "phrases": [
+            {
+                "type": "💑",
+                "phrase": "Volim svog terapeuta."
+            },
+            {
+                "type": "💘",
+                "phrase": "Volim te terapeut."
+            },
+            {
+                "type": "💔",
+                "phrase": "Ne volim svog terapeuta."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaje mi moj terapeut."
+            },
+            {
+                "type": "🙏🏼",
+                "phrase": "Hvala na sesiji."
+            }
+        ]
+    },
+    {
+        "slug": "doctor",
+        "title": "Liječnik",
+        "phrases": [
+            {
+                "type": "💑",
+                "phrase": "Volim svog liječnika."
+            },
+            {
+                "type": "💘",
+                "phrase": "Volim te doktore."
+            },
+            {
+                "type": "💔",
+                "phrase": "Ne volim svog liječnika."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaje mi liječnik."
+            },
+            {
+                "type": "🙏🏼",
+                "phrase": "Hvala što ste me izliječili."
+            }
+        ]
+    },
+    {
+        "slug": "friends",
+        "title": "Prijatelji",
+        "phrases": [
+            {
+                "type": "💑",
+                "phrase": "Volim moje prijatelje."
+            },
+            {
+                "type": "❓",
+                "phrase": "Želiš li mi biti prijatelj?"
+            },
+            {
+                "type": "💔",
+                "phrase": "Ne volim svoje prijatelje."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaju mi ​​prijatelji."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "Oni su moji prijatelji."
+            },
+            {
+                "type": "🙏🏼",
+                "phrase": "Hvala vam što ste se igrali sa mnom."
+            }
+        ]
+    },
+    {
+        "slug": "cousins",
+        "title": "Rođaci",
+        "phrases": [
+            {
+                "type": "💑",
+                "phrase": "Volim svoje rođake."
+            },
+            {
+                "type": "❌",
+                "phrase": "Nemam rođake."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaju mi ​​moji rođaci."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "Oni su moji rođaci."
+            }
+        ]
+    },
+    {
+        "slug": "grandmother",
+        "title": "Baka",
+        "phrases": [
+            {
+                "type": "💑",
+                "phrase": "Volim svoju baku."
+            },
+            {
+                "type": "💘",
+                "phrase": "Volim te bako."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaje mi moja baka."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "Ona je moja baka."
+            }
+        ]
+    },
+    {
+        "slug": "grandfather",
+        "title": "Grandfather",
+        "phrases": [
+            {
+                "type": "💑",
+                "phrase": "Volim svog djeda."
+            },
+            {
+                "type": "💘",
+                "phrase": "Volim te djed."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaje mi djed."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "On je moj djed."
+            }
+        ]
+    },
+    {
+        "slug": "stepfather",
+        "title": "Očuh",
+        "phrases": [
+            {
+                "type": "💑",
+                "phrase": "Volim svog očuha."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "On je moj očuh."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaje mi očuh."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "On je moj očuh."
+            }
+        ]
+    },
+    {
+        "slug": "stepmother",
+        "title": "Maćeha",
+        "phrases": [
+            {
+                "type": "💑",
+                "phrase": "Volim svoju maćehu."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "Ona je moja maćeha."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaje mi maćeha."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "Ona je moja maćeha."
+            }
+        ]
+    },
+    {
+        "slug": "stepsister",
+        "title": "Polusestra",
+        "phrases": [
+            {
+                "type": "💑",
+                "phrase": "Volim svoju maračnu seriju."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "Ona je moja očuha."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaje mi moja sestra."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "Ona je moja očuha."
+            }
+        ]
+    },
+    {
+        "slug": "stepbrother",
+        "title": "Polubrat",
+        "phrases": [
+            {
+                "type": "💑",
+                "phrase": "Volim svog očuha."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "On je moj očuh."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaje mi očuh."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "On je moj očuh."
+            }
+        ]
+    },
+    {
+        "slug": "half-brother",
+        "title": "Polubrat",
+        "phrases": [
+            {
+                "type": "💑",
+                "phrase": "Volim svog polubrata."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "On je moj polubrat."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaje mi moj polubrat."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "On je moj polubrat."
+            }
+        ]
+    },
+    {
+        "slug": "half-sister",
+        "title": "Polusestra",
+        "phrases": [
+            {
+                "type": "💑",
+                "phrase": "Volim svoju polu sestru."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "Ona je moja polusestra."
+            },
+            {
+                "type": "☹️",
+                "phrase": "Nedostaje mi moja pola sestra."
+            },
+            {
+                "type": "👉🏼",
+                "phrase": "Ona je moja polusestra."
+            }
+        ]
+    }
+]
